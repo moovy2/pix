@@ -1,4 +1,3 @@
-# please keep this list sorted alphabetically
 af
 am
 ar
@@ -7,6 +6,7 @@ be
 ber
 bg
 bn
+br
 ca
 ca@valencia
 cs
@@ -38,6 +38,7 @@ ie
 is
 it
 ja
+ka
 kab
 kk
 kn
@@ -68,8 +69,8 @@ sk
 sl
 sq
 sr
-sr@latin
 sr@Latn
+sr@latin
 sv
 ta
 tg
@@ -77,6 +78,7 @@ th
 tr
 uk
 ur
+uz
 vi
 xh
 zgh

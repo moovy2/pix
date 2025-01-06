@@ -1,6 +1,8 @@
-project('pix', ['c', 'cpp'],
+project(
+  'pix',
+  ['c', 'cpp'],
   license : 'GPL2+',
-  version : '2.8.9',
+  version : '3.4.5',
   meson_version : '>=0.43'
 )
 
@@ -195,7 +197,10 @@ use_libsecret = false
 if get_option('webservices')
   libsoup_dep = dependency('libsoup-2.4', version : libsoup_version, required : false)
   libjson_glib_dep = dependency('json-glib-1.0', version : libjson_glib_version, required : false)
-  webkit2_dep = dependency('webkit2gtk-4.0', version : webkit2_version, required : false)
+  webkit2_dep = dependency('webkit2gtk-4.1', version : webkit2_version, required : false)
+  if not webkit2_dep.found()
+    webkit2_dep = dependency('webkit2gtk-4.0', version : webkit2_version, required : false)
+  endif
   if not webkit2_dep.found()
     webkit2_dep = dependency('webkit2gtk-3.0', version : webkit2_version, required : false)
   endif
@@ -234,7 +239,9 @@ common_deps = [
   dependency('gtk+-3.0', version : gtk_version),
   dependency('libpng'),
   dependency('zlib'),
-  dependency('gsettings-desktop-schemas')
+  dependency('x11'),
+  dependency('gsettings-desktop-schemas'),
+  dependency('xapp', version: '>= 2.5.0')
 ]
 
 # config.h

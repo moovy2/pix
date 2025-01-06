@@ -124,7 +124,6 @@ gth_browser_activate_about (GSimpleAction *action,
 
 	gtk_show_about_dialog (GTK_WINDOW (browser),
 			       "version", PACKAGE_VERSION,
-			       "copyright", "Copyright \xc2\xa9 2001-2020 Free Software Foundation, Inc.",
 			       "comments", _("An image viewer and browser."),
 			       "authors", authors,
 			       "documenters", documenters,
@@ -160,8 +159,12 @@ gth_browser_activate_browser_mode (GSimpleAction *action,
 	gth_browser_stop (browser);
 
 	viewer_sidebar = gth_browser_get_viewer_sidebar (browser);
-	if (gth_sidebar_tool_is_active (GTH_SIDEBAR (viewer_sidebar)))
-		gth_sidebar_deactivate_tool (GTH_SIDEBAR (viewer_sidebar));
+	if (gth_sidebar_tool_is_active (GTH_SIDEBAR (viewer_sidebar))) {
+        GtkWidget *focus_widget = gtk_window_get_focus (GTK_WINDOW (browser));
+        if (!GTK_IS_ENTRY (focus_widget)) {
+            gth_sidebar_deactivate_tool (GTH_SIDEBAR (viewer_sidebar));
+        }
+    }
 	else if (gth_browser_get_is_fullscreen (browser))
 		gth_browser_unfullscreen (browser);
 	else

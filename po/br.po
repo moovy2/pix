@@ -1,22 +1,21 @@
-# Low German translation for pix.
-# Copyright (C) 2009 pix's COPYRIGHT HOLDER
-# This file is distributed under the same license as the pix package.
+# Breton translation for linuxmint
+# Copyright (c) 2024 Rosetta Contributors and Canonical Ltd 2024
+# This file is distributed under the same license as the linuxmint package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
-# Nils-Christoph Fiedler <ncfiedler@gnome.org>, 2009, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: pix pix-2-10\n"
-"Report-Msgid-Bugs-To: "
-"http://bugzilla.gnome.org/enter_bug.cgi?product=pix&component=general\n"
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2023-12-12 10:17+0000\n"
-"PO-Revision-Date: 2023-06-06 13:00+0000\n"
-"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
-"Language-Team: Low German <nds-lowgerman@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2024-08-01 13:22+0000\n"
+"Last-Translator: Anthony Guechoum <a.guechoum@proton.me>\n"
+"Language-Team: Breton <br@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2025-01-06 11:58+0000\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Launchpad-Export-Date: 2025-01-06 11:59+0000\n"
 "X-Generator: Launchpad (build 6394e03793719e8d73f5a60b5439440e693c92f1)\n"
 
 #: data/ui/browser-preferences.ui:20
@@ -35,7 +34,7 @@ msgstr ""
 
 #: data/ui/browser-preferences.ui:104
 msgid "_Double click to open files"
-msgstr ""
+msgstr "_Daouglikañ da zigeriñ ar restroù"
 
 #: data/ui/browser-preferences.ui:121
 msgid "_Open files in fullscreen mode"
@@ -46,7 +45,7 @@ msgstr ""
 #: extensions/exiv2_tools/gth-edit-iptc-page.c:199
 #: extensions/gstreamer_tools/main.c:41
 msgid "Other"
-msgstr "Annere"
+msgstr "All"
 
 #: data/ui/browser-preferences.ui:187
 msgid "Thumbnail _size:"
@@ -59,49 +58,49 @@ msgstr ""
 #: data/ui/code-selector.ui:99
 #: extensions/rename_series/data/ui/rename-series.ui:73
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: data/ui/code-selector.ui:113
 msgid "digits"
-msgstr ""
+msgstr "sifroù"
 
 #: data/ui/code-selector.ui:252 pix/gth-main-default-metadata.c:64
 #: extensions/image_print/data/ui/print-layout.ui:282
 #: extensions/comments/main.c:44 extensions/comments/main.c:170
 msgid "Description"
-msgstr "Beschrieven"
+msgstr "Deskrivadur"
 
 #: data/ui/code-selector.ui:269
 msgid "Edit"
-msgstr ""
+msgstr "Aozañ"
 
 #: data/ui/code-selector.ui:270 data/ui/code-selector.ui:327
 msgid "Default value"
-msgstr ""
+msgstr "Gwerzh dre ziouer"
 
 #: data/ui/code-selector.ui:387
 msgid "remove"
-msgstr ""
+msgstr "dilemel"
 
 #: data/ui/code-selector.ui:407
 msgid "add"
-msgstr ""
+msgstr "ouzhpennañ"
 
 #: data/ui/extensions-preferences.ui:39
 msgid "_Extensions:"
-msgstr ""
+msgstr "_Askouezhadennoù:"
 
 #: data/ui/file-selection-info.ui:23
 msgid "Previous"
-msgstr "Torügg"
+msgstr "Kent"
 
 #: data/ui/file-selection-info.ui:61
 msgid "Next"
-msgstr "Vor"
+msgstr "War-lerc'h"
 
 #: data/ui/filter-editor.ui:20
 msgid "Filter _Name:"
-msgstr ""
+msgstr "_Anv ar sil:"
 
 #: data/ui/filter-editor.ui:61 extensions/search/data/ui/search-editor.ui:21
 msgid "_Match:"
@@ -109,7 +108,7 @@ msgstr ""
 
 #: data/ui/filter-editor.ui:106 extensions/search/data/ui/search-editor.ui:95
 msgid "Rules:"
-msgstr ""
+msgstr "Reolennoù:"
 
 #: data/ui/filter-editor.ui:164 pix/gth-filter.c:270 pix/gth-filter.c:338
 msgid "_Limit to"
@@ -117,7 +116,7 @@ msgstr ""
 
 #: data/ui/filter-editor.ui:241
 msgid "selected by"
-msgstr ""
+msgstr "diuzet gant"
 
 #: data/ui/histogram-info.ui:26
 msgid "Mean:"
@@ -147,11 +146,11 @@ msgstr ""
 #: data/ui/histogram-info.ui:161
 msgctxt "Pixels"
 msgid "Selected:"
-msgstr ""
+msgstr "Diuzet:"
 
 #: data/ui/location.ui:23
 msgid "_Location:"
-msgstr ""
+msgstr "_Lec'hiadur:"
 
 #: data/ui/overwrite-dialog.ui:15
 msgid "Overwrite the old file with the new one?"
@@ -159,24 +158,24 @@ msgstr ""
 
 #: data/ui/overwrite-dialog.ui:73
 msgid "Old File:"
-msgstr ""
+msgstr "Rest kozh:"
 
 #: data/ui/overwrite-dialog.ui:145 data/ui/overwrite-dialog.ui:314
 msgid "Filename:"
-msgstr ""
+msgstr "Anv ar restr:"
 
 #: data/ui/overwrite-dialog.ui:160 data/ui/overwrite-dialog.ui:329
 #: extensions/image_print/data/ui/print-layout.ui:837
 msgid "Size:"
-msgstr ""
+msgstr "Ment:"
 
 #: data/ui/overwrite-dialog.ui:177 data/ui/overwrite-dialog.ui:346
 msgid "Modified:"
-msgstr ""
+msgstr "Kemmet:"
 
 #: data/ui/overwrite-dialog.ui:242
 msgid "New File:"
-msgstr ""
+msgstr "Restr nevez:"
 
 #: data/ui/overwrite-dialog.ui:401
 msgid "Over_write the old file"
@@ -196,7 +195,7 @@ msgstr ""
 
 #: data/ui/overwrite-dialog.ui:474
 msgid "_Save the new file as:"
-msgstr ""
+msgstr "_Enrollañ ar restr nevez evel:"
 
 #: data/ui/personalize-filters.ui:20
 msgid "_General filter:"
@@ -208,19 +207,19 @@ msgstr ""
 
 #: data/ui/preferences.ui:12
 msgid "below the folder list"
-msgstr ""
+msgstr "dindan listenn an teuliadoù"
 
 #: data/ui/preferences.ui:15
 msgid "on the right"
-msgstr ""
+msgstr "a-zehou"
 
 #: data/ui/preferences.ui:22
 msgid "Pix Preferences"
-msgstr ""
+msgstr "Gwellvezioù Pix"
 
 #: data/ui/preferences.ui:98
 msgid "Appearance"
-msgstr ""
+msgstr "Neuz"
 
 #: data/ui/preferences.ui:123
 msgid "T_humbnails in viewer:"
@@ -240,7 +239,7 @@ msgstr ""
 
 #: data/ui/preferences.ui:179
 msgid "_Statusbar"
-msgstr ""
+msgstr "_Barrenn-stad"
 
 #: data/ui/preferences.ui:222
 msgid "On startup:"
@@ -252,7 +251,7 @@ msgstr ""
 
 #: data/ui/preferences.ui:266
 msgid "Go to this _folder:"
-msgstr ""
+msgstr "Mont d'an _teuliad-mañ:"
 
 #: data/ui/preferences.ui:296
 msgid "Set to C_urrent"
@@ -280,11 +279,11 @@ msgstr ""
 #: extensions/webalbums/data/ui/web-album-exporter.ui:470
 #: extensions/edit_metadata/gth-edit-general-page.c:482
 msgid "General"
-msgstr "Allgemeen"
+msgstr "Hollek"
 
 #: data/ui/shortcuts-preferences.ui:27
 msgid "Shortcuts:"
-msgstr ""
+msgstr "Berradennoù:"
 
 #: data/ui/shortcuts-preferences.ui:94
 msgid "_Restore All…"
@@ -297,33 +296,33 @@ msgstr ""
 #: data/ui/template-editor-dialog.ui:21
 #: extensions/importer/data/ui/import-preferences.ui:164
 msgid "Example:"
-msgstr ""
+msgstr "Skouer:"
 
 #: pix/resources/file-list-menu.ui:7 pix/resources/file-menu.ui:7
 #: pix/gth-browser.c:4791 pix/gth-browser.c:4809
 msgid "Fullscreen"
-msgstr ""
+msgstr "Skrammad a-bezh"
 
 #: pix/resources/folder-menu.ui:7
 msgid "Open in New Window"
-msgstr ""
+msgstr "Digeriñ en ur prenestr nevez"
 
 #: pix/resources/gears-menu.ui:7
 msgid "New Window"
-msgstr ""
+msgstr "Prenestr nevez"
 
 #: pix/resources/gears-menu.ui:11
 msgid "Open Location…"
-msgstr ""
+msgstr "Digeriñ ul lec'hiadur..."
 
 #: pix/resources/gears-menu.ui:17 extensions/file_tools/gth-file-tool-save.c:66
 msgid "Save"
-msgstr "Spiekern"
+msgstr "Enrollañ"
 
 #: pix/resources/gears-menu.ui:21
 #: extensions/file_tools/gth-file-tool-save-as.c:70
 msgid "Save As…"
-msgstr ""
+msgstr "Enrollañ dindan…"
 
 #: pix/resources/gears-menu.ui:25 pix/dlg-preferences-shortcuts.c:296
 #: pix/dlg-preferences-shortcuts.c:371
@@ -332,31 +331,31 @@ msgstr ""
 
 #: pix/resources/gears-menu.ui:31
 msgid "Sort By…"
-msgstr ""
+msgstr "Rummañ dre..."
 
 #: pix/resources/gears-menu.ui:35 pix/gth-location-chooser-dialog.c:194
 msgid "Hidden Files"
-msgstr ""
+msgstr "Restroù kuzh"
 
 #: pix/resources/gears-menu.ui:45 extensions/desktop_background/actions.c:368
 msgid "_Preferences"
-msgstr ""
+msgstr "_Gwellvezioù"
 
 #: pix/resources/gears-menu.ui:49
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Berradennoù klavier"
 
 #: pix/resources/gears-menu.ui:53
 msgid "_Help"
-msgstr "_Hölp"
+msgstr "_Skoazell"
 
 #: pix/resources/gears-menu.ui:57
 msgid "_About Pix"
-msgstr ""
+msgstr "Di_war-benn Pix"
 
 #: pix/resources/history-menu.ui:9
 msgid "_Delete History"
-msgstr ""
+msgstr "Di_lemel ar roll-istor"
 
 #: data/pix.desktop.in:4
 msgid "View and organize your images"
@@ -364,7 +363,7 @@ msgstr ""
 
 #: data/pix-import.desktop.in:3
 msgid "Import with Pix"
-msgstr ""
+msgstr "Enporzhiañ gant Pix"
 
 #: data/pix-import.desktop.in:4
 msgid "Import the photos on your camera card"
@@ -378,7 +377,7 @@ msgstr ""
 #: extensions/photo_importer/dlg-photo-importer-preferences.c:78
 #: extensions/terminal/dlg-terminal-preferences.c:83
 msgid "Preferences"
-msgstr "Instellens"
+msgstr "Gwellvezioù"
 
 #: pix/dlg-location.c:239 pix/gth-browser.c:1175 pix/gth-browser.c:6856
 #: pix/gth-browser.c:6875 pix/gth-browser.c:6899 pix/gth-vfs-tree.c:393
@@ -388,46 +387,46 @@ msgstr ""
 
 #: pix/dlg-location.c:450 pix/dlg-location.c:460
 msgid "Open"
-msgstr "Opmaken"
+msgstr "Digeriñ"
 
 #: pix/dlg-personalize-filters.c:237
 msgid "Filter"
-msgstr "Filter"
+msgstr "Silañ"
 
 #: pix/dlg-personalize-filters.c:252
 #: extensions/list_tools/dlg-personalize-scripts.c:278
 msgid "Show"
-msgstr "Opwiesen"
+msgstr "Diskouez"
 
 #: pix/dlg-personalize-filters.c:315
 msgid "Could not save the filter"
-msgstr ""
+msgstr "N'haller ket enrollañ ar sil"
 
 #: pix/dlg-personalize-filters.c:358
 msgid "New Filter"
-msgstr "Nejer Filter"
+msgstr "Sil nevez"
 
 #: pix/dlg-personalize-filters.c:387
 msgid "Edit Filter"
-msgstr "Filter bewarken"
+msgstr "Aozañ ar sil"
 
 #: pix/dlg-personalize-filters.c:519 pix/gth-main-default-types.c:43
 msgid "Filters"
-msgstr "Filter"
+msgstr "Siloù"
 
 #: pix/dlg-preferences-browser.c:188 pix/dlg-preferences-extensions.c:65
 #: pix/gth-shortcuts-window.c:39
 msgid "Browser"
-msgstr "Dateioppasser"
+msgstr "Merdeer"
 
 #: pix/dlg-preferences-extensions.c:66
 msgid "Viewers"
-msgstr ""
+msgstr "Gwelerezed"
 
 #: pix/dlg-preferences-extensions.c:67 pix/gth-file-details.c:42
 #: pix/gth-main-default-metadata.c:33
 msgid "Metadata"
-msgstr "Metadaten"
+msgstr "Metaroadennoù"
 
 #: pix/dlg-preferences-extensions.c:68
 msgid "File tools"
@@ -439,11 +438,11 @@ msgstr ""
 
 #: pix/dlg-preferences-extensions.c:70
 msgid "Importers"
-msgstr ""
+msgstr "Enporzhierien"
 
 #: pix/dlg-preferences-extensions.c:71
 msgid "Exporters"
-msgstr ""
+msgstr "Ezporzhierien"
 
 #: pix/dlg-preferences-extensions.c:368
 msgid "Could not activate the extension"
@@ -455,11 +454,11 @@ msgstr ""
 
 #: pix/dlg-preferences-extensions.c:491
 msgid "Pix Development Team"
-msgstr ""
+msgstr "Skipailh diorren Pix"
 
 #: pix/dlg-preferences-extensions.c:664
 msgid "Extensions"
-msgstr ""
+msgstr "Askouezhadennoù"
 
 #: pix/dlg-preferences-extensions.c:713
 msgid "Restart required"
@@ -473,16 +472,16 @@ msgstr ""
 #: extensions/burn_disc/gth-burn-task.c:405
 #: extensions/oauth/oauth-account-chooser-dialog.c:150
 msgid "_Continue"
-msgstr "_Wietermaken"
+msgstr "_Kenderc'hel"
 
 #: pix/dlg-preferences-extensions.c:716
 msgid "_Restart"
-msgstr ""
+msgstr "_Adloc'hañ"
 
 #: pix/dlg-preferences-shortcuts.c:231 pix/gth-accel-button.c:256
 #: extensions/list_tools/dlg-personalize-scripts.c:264
 msgid "Shortcut"
-msgstr ""
+msgstr "Berradenn"
 
 #: pix/dlg-preferences-shortcuts.c:369
 msgid "Do you want to revert all the changes and use the default shortcuts?"
@@ -490,34 +489,34 @@ msgstr ""
 
 #: pix/dlg-preferences-shortcuts.c:577
 msgid "Shortcuts"
-msgstr ""
+msgstr "Berradennoù"
 
 #: pix/dlg-sort-order.c:113
 msgid "Sort By"
-msgstr "Grupperen nah"
+msgstr "Renkañ dre"
 
 #: pix/gio-utils.c:1059
 #, c-format
 msgid "%s of %s"
-msgstr ""
+msgstr "%s eus %s"
 
 #: pix/gio-utils.c:1148
 #, c-format
 msgid "Moving “%s” to “%s”"
-msgstr ""
+msgstr "O tilec'hiañ “%s” da “%s”"
 
 #: pix/gio-utils.c:1150
 #, c-format
 msgid "Copying “%s” to “%s”"
-msgstr ""
+msgstr "Oc'h euliañ \"%s\" da \"%s\""
 
 #: pix/gio-utils.c:1561
 msgid "Moving files"
-msgstr "Verschuve Dateien"
+msgstr "O tilec'hiañ restroù"
 
 #: pix/gio-utils.c:1561
 msgid "Copying files"
-msgstr "Kopere Dateien"
+msgstr "Oc'h eilañ restroù"
 
 #: pix/gio-utils.c:1562 pix/gio-utils.c:1793 pix/gio-utils.c:1923
 msgid "Getting file information"
@@ -525,15 +524,15 @@ msgstr ""
 
 #: pix/gio-utils.c:1728
 msgid "Deleting files"
-msgstr "Lösche Dateien"
+msgstr "O tilemel restroù"
 
 #: pix/gio-utils.c:1869
 msgid "Moving files to trash"
-msgstr ""
+msgstr "O kas restroù d'al lastez"
 
 #: pix/glib-utils.c:1114 pix/glib-utils.c:2091 pix/str-utils.c:641
 msgid "(invalid value)"
-msgstr ""
+msgstr "(gwerzh didalvoudek)"
 
 #: pix/gth-accel-button.c:201
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:12
@@ -543,7 +542,7 @@ msgstr ""
 #: extensions/file_tools/gth-file-tool-rotate.c:396
 #: extensions/slideshow/main.c:297
 msgid "None"
-msgstr "Keen"
+msgstr "Hini ebet"
 
 #: pix/gth-accel-dialog.c:121
 msgid "Press a combination of keys to use as shortcut."
@@ -551,11 +550,11 @@ msgstr ""
 
 #: pix/gth-accel-dialog.c:122
 msgid "Press Esc to cancel"
-msgstr ""
+msgstr "Pouezit achap evit nullañ"
 
 #: pix/gth-application.c:52
 msgid "Open a new window"
-msgstr ""
+msgstr "Digeriñ ur prenestr nevez"
 
 #: pix/gth-application.c:56
 msgid "Start in fullscreen mode"
@@ -571,11 +570,11 @@ msgstr ""
 
 #: pix/gth-application.c:68
 msgid "Show version"
-msgstr ""
+msgstr "Diskouez an handelv"
 
 #: pix/gth-application.c:71
 msgid "[FILE…] [DIRECTORY…]"
-msgstr ""
+msgstr "[RESTR…] [KAVLEC'HIAD…]"
 
 #: pix/gth-application.c:105 pix/gth-browser.c:428
 #: pix/gth-progress-dialog.c:413
@@ -616,16 +615,16 @@ msgstr ""
 msgid "translator-credits"
 msgstr ""
 "Launchpad Contributions:\n"
-"  Nils-Christoph Fiedler https://launchpad.net/~fiedler-medienkompanie"
+"  Anthony Guechoum https://launchpad.net/~a-guechoum"
 
 #: pix/gth-browser.c:413
 msgid "[modified]"
-msgstr "[ännert]"
+msgstr "[kemmet]"
 
 #: pix/gth-browser.c:913
 #, c-format
 msgid "%s of free space"
-msgstr ""
+msgstr "%s a egor dieub"
 
 #: pix/gth-browser.c:1907 pix/gth-browser.c:1923
 #, c-format
@@ -636,12 +635,12 @@ msgstr ""
 #: extensions/gstreamer_tools/actions.c:69
 #: extensions/image_viewer/gth-image-viewer-page.c:1632
 msgid "Could not save the file"
-msgstr ""
+msgstr "N'haller ket enrollañ ar restr"
 
 #: pix/gth-browser.c:2028
 #, c-format
 msgid "Save changes to file “%s”?"
-msgstr ""
+msgstr "Enrollañ ar c'hemmoù d'ar restr \"%s\"?"
 
 #: pix/gth-browser.c:2033
 msgid "If you don’t save, changes to the file will be permanently lost."
@@ -649,23 +648,23 @@ msgstr ""
 
 #: pix/gth-browser.c:2034
 msgid "Do _Not Save"
-msgstr "_Nich spiekern"
+msgstr "_Chom hep enrollañ"
 
 #: pix/gth-browser.c:2524 pix/gth-browser.c:4817
 msgid "Accept"
-msgstr ""
+msgstr "Asantiñ"
 
 #: pix/gth-browser.c:2524
 msgid "_Close"
-msgstr ""
+msgstr "_Serriñ"
 
 #: pix/gth-browser.c:3063
 msgid "Could not change name"
-msgstr ""
+msgstr "N'haller ket cheñch an anv"
 
 #: pix/gth-browser.c:3557
 msgid "Modified"
-msgstr "Ännert"
+msgstr "Kemmet"
 
 #: pix/gth-browser.c:4739
 msgid "Go to the previous visited location"
@@ -677,26 +676,26 @@ msgstr ""
 
 #: pix/gth-browser.c:4753
 msgid "History"
-msgstr ""
+msgstr "Roll istor"
 
 #: pix/gth-browser.c:4767
 msgid "View the folders"
-msgstr "Verteeknisse opwiesen"
+msgstr "Diskouez an teuliadoù"
 
 #: pix/gth-browser.c:4776 pix/gth-browser.c:4888 pix/gth-file-properties.c:274
 #: extensions/catalogs/callbacks.c:78
 #: extensions/catalogs/dlg-catalog-properties.c:205
 msgid "Properties"
-msgstr "Eegenschapten"
+msgstr "Perzhioù"
 
 #: pix/gth-browser.c:4782
 msgid "Edit file"
-msgstr "datei bewarken"
+msgstr "Aozañ ar restr"
 
 #: pix/gth-browser.c:4873 pix/gth-progress-dialog.c:310
 #: pix/gth-progress-dialog.c:455
 msgid "Operations"
-msgstr ""
+msgstr "Oberoù"
 
 #: pix/gth-browser.c:5814 pix/gth-browser.c:5857 pix/gth-progress-dialog.c:429
 #: extensions/file_manager/actions.c:410
@@ -704,7 +703,7 @@ msgstr ""
 #: extensions/file_manager/callbacks.c:991
 #: extensions/find_duplicates/gth-find-duplicates.c:788
 msgid "Could not perform the operation"
-msgstr ""
+msgstr "N'haller ket kas ar gwezhiadur da benn"
 
 #: pix/gth-browser.c:6857
 msgid "File type not supported"
@@ -717,12 +716,12 @@ msgstr ""
 #: pix/gth-buffer-data.c:84 extensions/cairo_io/gth-image-saver-tga.c:260
 #: extensions/cairo_io/gth-image-saver-tiff.c:442
 msgid "Insufficient memory"
-msgstr ""
+msgstr "Memor re skort"
 
 #: pix/gth-extensions.c:206
 #, c-format
 msgid "Could not open the module “%s”: %s"
-msgstr ""
+msgstr "N'haller ket digeriñ ar mollad \"%s\": %s"
 
 #: pix/gth-extensions.c:759
 #, c-format
@@ -731,11 +730,11 @@ msgstr ""
 
 #: pix/gth-file-chooser-dialog.c:145
 msgid "All Supported Files"
-msgstr "All unnerstütte Dateien"
+msgstr "An holl restroù skoret"
 
 #: pix/gth-file-chooser-dialog.c:195
 msgid "_Show Format Options"
-msgstr ""
+msgstr "_Diskouez dibarzhioù ar furmad"
 
 #: pix/gth-file-chooser-dialog.c:258
 #: extensions/file_tools/data/ui/crop-options.ui:31
@@ -745,7 +744,7 @@ msgstr ""
 #: extensions/file_tools/gth-file-tool-resize.c:759
 #: extensions/file_tools/gth-file-tool-rotate.c:617
 msgid "Options"
-msgstr "Optschoonen"
+msgstr "Dibarzhioù"
 
 #: pix/gth-file-comment.c:136 extensions/comments/main.c:37
 #: extensions/edit_metadata/callbacks.c:56
@@ -755,28 +754,28 @@ msgstr "Optschoonen"
 #: extensions/webalbums/dlg-web-exporter.c:46
 #: extensions/webalbums/dlg-web-exporter.c:296
 msgid "Comment"
-msgstr "Kommentar"
+msgstr "Evezhiadenn"
 
 #: pix/gth-file-list.c:41 pix/gth-folder-tree.c:1187
 msgid "No file"
-msgstr ""
+msgstr "Restr ebet"
 
 #: pix/gth-file-list.c:577 pix/gth-folder-tree.c:1161
 #: extensions/oauth/data/ui/oauth-ask-authorization.ui:54
 msgid "Loading…"
-msgstr ""
+msgstr "O kargañ..."
 
 #: pix/gth-file-source-vfs.c:298
 msgid "Computer"
-msgstr ""
+msgstr "Urzhiataer"
 
 #: pix/gth-file-source-vfs.c:305 extensions/file_manager/callbacks.c:735
 msgid "Home Folder"
-msgstr "Hemverteeknis"
+msgstr "Teuliad personel"
 
 #: pix/gth-file-source-vfs.c:786 extensions/importer/gth-import-task.c:642
 msgid "Could not delete the files"
-msgstr ""
+msgstr "N'haller ket dilemel ar restroù"
 
 #: pix/gth-file-source-vfs.c:890
 msgid ""
@@ -808,35 +807,35 @@ msgstr ""
 #: pix/gth-filterbar.c:391
 #: extensions/photo_importer/data/ui/photo-importer.ui:54
 msgid "S_how:"
-msgstr "_Opwiesen:"
+msgstr "Disk_ouez:"
 
 #: pix/gth-filterbar.c:526
 msgid "All"
-msgstr "All"
+msgstr "An holl"
 
 #: pix/gth-filterbar.c:556 pix/gth-test-aspect-ratio.c:193
 #: extensions/list_tools/data/ui/tools-menu.ui:15
 msgid "Personalize…"
-msgstr ""
+msgstr "Personelaat..."
 
 #: pix/gth-filter.c:43 pix/gth-filter-editor-dialog.c:180
 #: pix/gth-test-simple.c:78
 msgid "kB"
-msgstr "kB"
+msgstr "Ke"
 
 #: pix/gth-filter.c:44 pix/gth-filter-editor-dialog.c:181
 #: pix/gth-test-simple.c:79
 msgid "MB"
-msgstr "MB"
+msgstr "Me"
 
 #: pix/gth-filter.c:45 pix/gth-filter-editor-dialog.c:182
 #: pix/gth-test-simple.c:80
 msgid "GB"
-msgstr "GB"
+msgstr "Ge"
 
 #: pix/gth-filter.c:287 pix/gth-filter-editor-dialog.c:179
 msgid "files"
-msgstr "Dateien"
+msgstr "restroù"
 
 #: pix/gth-filter-editor-dialog.c:167 extensions/search/gth-search-editor.c:117
 msgid "all the following rules"
@@ -848,11 +847,11 @@ msgstr ""
 
 #: pix/gth-filter-editor-dialog.c:226
 msgid "ascending"
-msgstr ""
+msgstr "war-gresk"
 
 #: pix/gth-filter-editor-dialog.c:227
 msgid "descending"
-msgstr ""
+msgstr "war-zigresk"
 
 #: pix/gth-filter-editor-dialog.c:467 pix/gth-folder-tree.c:1926
 #: extensions/catalogs/actions.c:89 extensions/catalogs/actions.c:212
@@ -862,7 +861,7 @@ msgstr ""
 #: extensions/file_tools/gth-file-tool-curves.c:373
 #: extensions/list_tools/gth-script-editor-dialog.c:295
 msgid "No name specified"
-msgstr "Keen Naam ingeven"
+msgstr ""
 
 #: pix/gth-filter-editor-dialog.c:521
 msgid "No limit specified"
@@ -871,7 +870,7 @@ msgstr ""
 #: pix/gth-filter-grid.c:573 extensions/file_tools/gth-file-tool-resize.c:185
 #: extensions/resize_images/dlg-resize-images.c:169
 msgid "Resizing images"
-msgstr "Ännere Billgröte"
+msgstr "Adventañ ar skeudennoù"
 
 #: pix/gth-folder-tree.c:1467
 msgid "(Open Parent)"
@@ -893,15 +892,15 @@ msgstr ""
 #: extensions/file_manager/callbacks.c:126
 #: extensions/rename_series/dlg-rename-series.c:771
 msgid "Rename"
-msgstr "Annern Naam geven"
+msgstr "Adenvel"
 
 #: pix/gth-folder-tree.c:1974
 msgid "Enter the new name:"
-msgstr ""
+msgstr "Roit an anv nevez:"
 
 #: pix/gth-folder-tree.c:1976 extensions/rename_series/dlg-rename-series.c:781
 msgid "_Rename"
-msgstr "_Annern Naam geven"
+msgstr "_Adenvel"
 
 #: pix/gth-histogram-view.c:838 extensions/file_tools/gth-curve-editor.c:894
 msgid "Linear scale"
@@ -917,31 +916,31 @@ msgstr ""
 
 #: pix/gth-histogram-view.c:891 extensions/file_tools/gth-curve-editor.c:948
 msgid "Value"
-msgstr "Wert"
+msgstr "Gwerzh"
 
 #: pix/gth-histogram-view.c:896 extensions/file_tools/gth-curve-editor.c:953
 msgid "Red"
-msgstr ""
+msgstr "Ruz"
 
 #: pix/gth-histogram-view.c:901 extensions/file_tools/gth-curve-editor.c:958
 msgid "Green"
-msgstr "Greun"
+msgstr "Gwer"
 
 #: pix/gth-histogram-view.c:906 extensions/file_tools/gth-curve-editor.c:963
 msgid "Blue"
-msgstr "Blau"
+msgstr "Glas"
 
 #: pix/gth-histogram-view.c:911
 msgid "Alpha"
-msgstr "Alpha"
+msgstr "Alfa"
 
 #: pix/gth-histogram-view.c:917
 msgid "RGB"
-msgstr ""
+msgstr "RGG"
 
 #: pix/gth-image-list-task.c:144
 msgid "Could not rename the file"
-msgstr ""
+msgstr "N'haller ket adenvel ar restr"
 
 #: pix/gth-image-loader.c:258 pix/gth-image-loader.c:390
 #: pix/gth-image-utils.c:117 pix/gth-image-utils.c:123
@@ -960,40 +959,40 @@ msgstr ""
 
 #: pix/gth-load-file-data-task.c:111
 msgid "Reading file information"
-msgstr ""
+msgstr "O lenn titouroù ar restr"
 
 #: pix/gth-location-chooser.c:274 pix/gth-main-default-metadata.c:46
 #: extensions/contact_sheet/dlg-contact-sheet.c:43
 #: extensions/webalbums/dlg-web-exporter.c:37
 msgid "Location"
-msgstr ""
+msgstr "Lec'hiadur"
 
 #: pix/gth-location-chooser.c:572
 msgid "Locations"
-msgstr ""
+msgstr "Lec'hiadurioù"
 
 #: pix/gth-location-chooser.c:617 pix/gth-template-selector.c:434
 #: extensions/file_tools/gth-file-tool-crop.c:455
 #: extensions/file_tools/gth-file-tool-resize.c:607
 msgid "Other…"
-msgstr ""
+msgstr "All..."
 
 #: pix/gth-main-default-metadata.c:32
 #: extensions/find_duplicates/data/ui/find-duplicates-dialog.ui:366
 msgid "File"
-msgstr "Datei"
+msgstr "Restr"
 
 #: pix/gth-main-default-metadata.c:39
 msgid "Name"
-msgstr "Naam"
+msgstr "Anv"
 
 #: pix/gth-main-default-metadata.c:40 pix/gth-main-default-tests.c:351
 msgid "Size"
-msgstr "Gröte"
+msgstr "Ment"
 
 #: pix/gth-main-default-metadata.c:41
 msgid "Bytes"
-msgstr ""
+msgstr "Bitoù"
 
 #: pix/gth-main-default-metadata.c:43
 msgid "Modified Date & Time"
@@ -1001,21 +1000,21 @@ msgstr ""
 
 #: pix/gth-main-default-metadata.c:44
 msgid "Type"
-msgstr "Typ"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:47 pix/gth-toolbox.c:148
 #: extensions/resize_images/data/ui/resize-images.ui:324
 msgid "Format"
-msgstr "Format"
+msgstr "Furmad"
 
 #: pix/gth-main-default-metadata.c:48
 #: extensions/file_tools/data/ui/resize-options.ui:137
 msgid "Dimensions"
-msgstr "Dimenschoonen"
+msgstr "Mentoù"
 
 #: pix/gth-main-default-metadata.c:49
 msgid "Duration"
-msgstr "Düer"
+msgstr "Padelezh"
 
 #: pix/gth-main-default-metadata.c:51
 msgid "Exposure Settings"
@@ -1059,12 +1058,12 @@ msgstr ""
 
 #: pix/gth-main-default-metadata.c:62 extensions/comments/main.c:43
 msgid "Title"
-msgstr "Titel"
+msgstr "Titl"
 
 #: pix/gth-main-default-metadata.c:63 extensions/comments/main.c:45
 #: extensions/comments/main.c:178
 msgid "Place"
-msgstr "Ort"
+msgstr "Lec'h"
 
 #: pix/gth-main-default-metadata.c:65 extensions/catalogs/gth-catalog.c:1019
 #: extensions/comments/main.c:47 extensions/edit_metadata/callbacks.c:57
@@ -1072,7 +1071,7 @@ msgstr "Ort"
 #: extensions/edit_metadata/callbacks.c:107
 #: extensions/edit_metadata/gth-edit-tags-dialog.c:170
 msgid "Tags"
-msgstr "Slötelwöör"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:66 pix/gth-main-default-tests.c:391
 #: extensions/comments/main.c:48
@@ -1081,23 +1080,23 @@ msgstr ""
 
 #: pix/gth-main-default-metadata.c:68
 msgid "Author"
-msgstr ""
+msgstr "Aozer"
 
 #: pix/gth-main-default-metadata.c:69
 msgid "Copyright"
-msgstr ""
+msgstr "Copyright"
 
 #: pix/gth-main-default-sort-types.c:166
 msgid "file name"
-msgstr "Dateinaam"
+msgstr "anv ar restr"
 
 #: pix/gth-main-default-sort-types.c:167
 msgid "file path"
-msgstr ""
+msgstr "hent ar restr"
 
 #: pix/gth-main-default-sort-types.c:168
 msgid "file size"
-msgstr "Dateigröte"
+msgstr "ment ar restr"
 
 #: pix/gth-main-default-sort-types.c:169
 msgid "file modified date"
@@ -1109,7 +1108,7 @@ msgstr ""
 
 #: pix/gth-main-default-sort-types.c:171
 msgid "dimensions"
-msgstr ""
+msgstr "mentoù"
 
 #: pix/gth-main-default-sort-types.c:172
 msgid "aspect ratio"
@@ -1117,15 +1116,15 @@ msgstr ""
 
 #: pix/gth-main-default-tests.c:286
 msgid "All Files"
-msgstr "All Dateien"
+msgstr "An holl restroù"
 
 #: pix/gth-main-default-tests.c:293
 msgid "All Images"
-msgstr ""
+msgstr "An holl skeudennoù"
 
 #: pix/gth-main-default-tests.c:300
 msgid "JPEG Images"
-msgstr ""
+msgstr "Skeudennoù JPEG"
 
 #: pix/gth-main-default-tests.c:307
 msgid "Raw Photos"
@@ -1133,23 +1132,23 @@ msgstr ""
 
 #: pix/gth-main-default-tests.c:314 extensions/gstreamer_tools/main.c:39
 msgid "Video"
-msgstr "Film"
+msgstr "Video"
 
 #: pix/gth-main-default-tests.c:321 extensions/gstreamer_tools/main.c:40
 msgid "Audio"
-msgstr "Ton"
+msgstr "Aodio"
 
 #: pix/gth-main-default-tests.c:328
 msgid "Media"
-msgstr "Medien"
+msgstr "Media"
 
 #: pix/gth-main-default-tests.c:335
 msgid "Text Files"
-msgstr "Textdateien"
+msgstr ""
 
 #: pix/gth-main-default-tests.c:343
 msgid "Filename"
-msgstr "Dateinaam"
+msgstr "Anv ar restr"
 
 #: pix/gth-main-default-tests.c:359
 #: extensions/catalogs/dlg-organize-files.c:145
@@ -1183,20 +1182,20 @@ msgstr ""
 
 #: pix/gth-main-default-types.c:39
 msgid "Show/Hide"
-msgstr ""
+msgstr "Diskouezh/Kuzhat"
 
 #: pix/gth-main-default-types.c:40
 msgid "Navigation"
-msgstr ""
+msgstr "Merdeiñ"
 
 #: pix/gth-main-default-types.c:41
 msgid "File Manager"
-msgstr ""
+msgstr "Merour restroù"
 
 #: pix/gth-main-default-types.c:42 pix/gth-shortcuts-window.c:40
 #: extensions/image_viewer/preferences.c:158
 msgid "Viewer"
-msgstr "Opwieser"
+msgstr ""
 
 #: pix/gth-overwrite-dialog.c:184
 #: extensions/edit_metadata/dlg-edit-metadata.c:234
@@ -1205,21 +1204,21 @@ msgstr ""
 
 #: pix/gth-overwrite-dialog.c:326
 msgid "Overwrite"
-msgstr ""
+msgstr "Flastrañ"
 
 #: pix/gth-progress-dialog.c:158
 #: extensions/catalogs/data/ui/organize-files-task.ui:93
 msgid "Cancel operation"
-msgstr ""
+msgstr "Nullañ ar gwezhiadur"
 
 #: pix/gth-save-file-data-task.c:105
 msgid "Saving file information"
-msgstr ""
+msgstr "Oc'h enrollañ titouroù ar restr"
 
 #: pix/gth-save-image-task.c:161
 #, c-format
 msgid "Saving “%s”"
-msgstr ""
+msgstr "Oc'h enrollañ \"%s\""
 
 #: pix/gth-shortcut.c:366 extensions/catalogs/gth-catalog.c:300
 #: extensions/search/gth-search.c:285
@@ -1246,56 +1245,56 @@ msgstr ""
 #: pix/gth-tags-entry.c:1148
 #: extensions/find_duplicates/data/ui/find-duplicates-dialog.ui:454
 msgid "_Delete"
-msgstr "_Löschen"
+msgstr "_Dilemel"
 
 #: pix/gth-tags-file.c:235
 msgid "Holidays"
-msgstr "Ferien"
+msgstr "Vakañsoù"
 
 #: pix/gth-tags-file.c:236
 msgid "Temporary"
-msgstr ""
+msgstr "Padennek"
 
 #: pix/gth-tags-file.c:237
 msgid "Screenshots"
-msgstr "Billschirmbill"
+msgstr "Tapadennoù-skramm"
 
 #: pix/gth-tags-file.c:238
 msgid "Science"
-msgstr "Wetenschapt"
+msgstr "Skiantoù"
 
 #: pix/gth-tags-file.c:239
 msgid "Favorite"
-msgstr "Leevste"
+msgstr ""
 
 #: pix/gth-tags-file.c:240
 msgid "Important"
-msgstr "Wichtig"
+msgstr "Pouezus"
 
 #: pix/gth-tags-file.c:241
 msgid "Games"
-msgstr "Speelen"
+msgstr "C'hoarioù"
 
 #: pix/gth-tags-file.c:242
 msgid "Party"
-msgstr "Fier"
+msgstr ""
 
 #: pix/gth-tags-file.c:243
 msgid "Birthday"
-msgstr "Burtsdag"
+msgstr "Deiz-ha-bloaz"
 
 #: pix/gth-tags-file.c:244
 msgid "Astronomy"
-msgstr ""
+msgstr "Astronomiezh"
 
 #: pix/gth-tags-file.c:245
 msgid "Family"
-msgstr "Familie"
+msgstr "Familh"
 
 #: pix/gth-template-editor-dialog.c:419
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:519
 msgid "Text"
-msgstr ""
+msgstr "Testenn"
 
 #: pix/gth-template-editor-dialog.c:424
 msgid "Space"
@@ -1303,11 +1302,11 @@ msgstr ""
 
 #: pix/gth-template-selector.c:35
 msgid "Year"
-msgstr ""
+msgstr "Bloaz"
 
 #: pix/gth-template-selector.c:36
 msgid "Month"
-msgstr ""
+msgstr "Miz"
 
 #: pix/gth-template-selector.c:37
 msgid "Day of the month"
@@ -1315,15 +1314,15 @@ msgstr ""
 
 #: pix/gth-template-selector.c:38
 msgid "Hour"
-msgstr ""
+msgstr "Eur"
 
 #: pix/gth-template-selector.c:39
 msgid "Minute"
-msgstr ""
+msgstr "Munutenn"
 
 #: pix/gth-template-selector.c:41
 msgid "Second"
-msgstr ""
+msgstr "Eilenn"
 
 #: pix/gth-template-selector.c:357
 #: extensions/contact_sheet/dlg-contact-sheet.c:762
@@ -1343,67 +1342,67 @@ msgstr ""
 #: extensions/file_tools/gth-file-tool-crop.c:439
 #: extensions/file_tools/gth-file-tool-resize.c:589
 msgid "Square"
-msgstr ""
+msgstr "Karrez"
 
 #: pix/gth-test-aspect-ratio.c:48
 #: extensions/file_tools/gth-file-tool-crop.c:447
 #: extensions/file_tools/gth-file-tool-resize.c:599
 msgid "5∶4"
-msgstr ""
+msgstr "5∶4"
 
 #: pix/gth-test-aspect-ratio.c:49
 #: extensions/file_tools/gth-file-tool-crop.c:448
 #: extensions/file_tools/gth-file-tool-resize.c:600
 msgid "4∶3 (DVD, Book)"
-msgstr ""
+msgstr "4∶3 (DVD, Levr)"
 
 #: pix/gth-test-aspect-ratio.c:50
 #: extensions/file_tools/gth-file-tool-crop.c:449
 #: extensions/file_tools/gth-file-tool-resize.c:601
 msgid "7∶5"
-msgstr ""
+msgstr "7∶5"
 
 #: pix/gth-test-aspect-ratio.c:51
 #: extensions/file_tools/gth-file-tool-crop.c:450
 #: extensions/file_tools/gth-file-tool-resize.c:602
 msgid "3∶2 (Postcard)"
-msgstr ""
+msgstr "3∶2 (Kartenn-bost)"
 
 #: pix/gth-test-aspect-ratio.c:52
 #: extensions/file_tools/gth-file-tool-crop.c:451
 #: extensions/file_tools/gth-file-tool-resize.c:603
 msgid "16∶10"
-msgstr ""
+msgstr "16∶10"
 
 #: pix/gth-test-aspect-ratio.c:53
 #: extensions/file_tools/gth-file-tool-crop.c:452
 #: extensions/file_tools/gth-file-tool-resize.c:604
 msgid "16∶9 (DVD)"
-msgstr ""
+msgstr "16∶9 (DVD)"
 
 #: pix/gth-test-aspect-ratio.c:54
 #: extensions/file_tools/gth-file-tool-crop.c:453
 #: extensions/file_tools/gth-file-tool-resize.c:605
 msgid "1.85∶1"
-msgstr ""
+msgstr "1.85∶1"
 
 #: pix/gth-test-aspect-ratio.c:55
 #: extensions/file_tools/gth-file-tool-crop.c:454
 #: extensions/file_tools/gth-file-tool-resize.c:606
 msgid "2.39∶1"
-msgstr ""
+msgstr "2.39∶1"
 
 #: pix/gth-test-aspect-ratio.c:67 pix/gth-test-simple.c:57
 msgid "is lower than"
-msgstr ""
+msgstr "zo izeloc'h eget"
 
 #: pix/gth-test-aspect-ratio.c:68 pix/gth-test-simple.c:58
 msgid "is greater than"
-msgstr ""
+msgstr "zo uheloc'h eget"
 
 #: pix/gth-test-aspect-ratio.c:69 pix/gth-test-simple.c:59
 msgid "is equal to"
-msgstr "is liekers to"
+msgstr "zo heñvel ouzh"
 
 #: pix/gth-test-aspect-ratio.c:70 pix/gth-test-simple.c:60
 msgid "is greater than or equal to"
@@ -1419,7 +1418,7 @@ msgstr ""
 #: extensions/file_tools/gth-file-tool-rotate.c:604
 #: extensions/file_tools/gth-file-tool-sharpen.c:364
 msgid "Reset"
-msgstr ""
+msgstr "Adderaouekaat"
 
 #: pix/gth-test-aspect-ratio.c:369 pix/gth-test-category.c:421
 #: pix/gth-test-simple.c:1084 pix/gth-test-simple.c:1105
@@ -1429,7 +1428,7 @@ msgstr ""
 
 #: pix/gth-test-category.c:46 pix/gth-test-simple.c:50 pix/gth-test-simple.c:67
 msgid "is"
-msgstr "is"
+msgstr "a zo"
 
 #: pix/gth-test-category.c:47
 msgid "is only"
@@ -1437,7 +1436,7 @@ msgstr ""
 
 #: pix/gth-test-category.c:48 pix/gth-test-simple.c:51 pix/gth-test-simple.c:68
 msgid "is not"
-msgstr "is nich"
+msgstr "n'eo ket"
 
 #: pix/gth-test-category.c:49 pix/gth-test-simple.c:53
 msgid "matches"
@@ -1445,47 +1444,47 @@ msgstr ""
 
 #: pix/gth-test-selector.c:259
 msgid "Add a new rule"
-msgstr ""
+msgstr "Ouzhpenañ ur reolenn nevez"
 
 #: pix/gth-test-selector.c:269
 msgid "Remove this rule"
-msgstr ""
+msgstr "Dilemel ar reolenn-mañ"
 
 #: pix/gth-test-simple.c:47
 msgid "contains"
-msgstr "hett in"
+msgstr ""
 
 #: pix/gth-test-simple.c:48
 msgid "starts with"
-msgstr "startet mit"
+msgstr "a gomañs gant"
 
 #: pix/gth-test-simple.c:49
 msgid "ends with"
-msgstr "heurt op mit"
+msgstr "a echu gant"
 
 #: pix/gth-test-simple.c:52
 msgid "does not contain"
-msgstr "hett nich in"
+msgstr ""
 
 #: pix/gth-test-simple.c:65
 msgid "is before"
-msgstr "is vor"
+msgstr "zo a-raok"
 
 #: pix/gth-test-simple.c:66
 msgid "is after"
-msgstr "is achter"
+msgstr "zo goude"
 
 #: pix/gth-time-selector.c:542
 msgid "Today"
-msgstr "Vandag"
+msgstr "Hiziv"
 
 #: pix/gth-time-selector.c:550
 msgid "Now"
-msgstr "Nu"
+msgstr "Bremañ"
 
 #: pix/gth-toolbox.c:146
 msgid "Colors"
-msgstr ""
+msgstr "Livioù"
 
 #: pix/gth-toolbox.c:147
 msgid "Rotation"
@@ -1516,15 +1515,15 @@ msgstr ""
 
 #: pix/gtk-utils.c:370
 msgid "Could not display help"
-msgstr ""
+msgstr "N'haller ket diskouez ar skoazell"
 
 #: pix/gtk-utils.c:730 pix/gtk-utils.c:737
 msgid "Could not launch the application"
-msgstr ""
+msgstr "N'haller ket loc'hañ an arload"
 
 #: pix/gtk-utils.c:840
 msgid "_Copy Here"
-msgstr ""
+msgstr "_Eilañ amañ"
 
 #: pix/gtk-utils.c:845
 msgid "_Move Here"
@@ -1536,7 +1535,7 @@ msgstr ""
 
 #: pix/gtk-utils.c:859
 msgid "Cancel"
-msgstr ""
+msgstr "Nullañ"
 
 #: pix/gtk-utils.c:963 extensions/gstreamer_utils/gstreamer-utils.c:402
 #: extensions/image_viewer/gth-image-viewer-page.c:1865
@@ -1545,21 +1544,21 @@ msgstr ""
 #: extensions/webalbums/gth-web-exporter.c:2427
 #, c-format
 msgid "%d × %d"
-msgstr ""
+msgstr "%d × %d"
 
 #: extensions/23hq/23hq.extension.desktop.in.in:3
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #: extensions/23hq/23hq.extension.desktop.in.in:4
 msgid "Upload images to 23hq.com"
-msgstr ""
+msgstr "Pellgas ar skeudennoù da 23hq.com"
 
 #: extensions/bookmarks/bookmarks.extension.desktop.in.in:3
 #: extensions/bookmarks/callbacks.c:323
 #: extensions/bookmarks/dlg-bookmarks.c:350
 msgid "Bookmarks"
-msgstr "Lesetekens"
+msgstr "Sinedoù"
 
 #: extensions/bookmarks/bookmarks.extension.desktop.in.in:4
 msgid "Add bookmarks support."
@@ -1578,7 +1577,7 @@ msgstr ""
 #: extensions/catalogs/gth-catalog.c:555 extensions/catalogs/gth-catalog.c:917
 #: extensions/catalogs/gth-catalog.c:918
 msgid "Catalogs"
-msgstr ""
+msgstr "Katalogoù"
 
 #: extensions/catalogs/catalogs.extension.desktop.in.in:4
 msgid "Create file collections."
@@ -1586,11 +1585,11 @@ msgstr ""
 
 #: extensions/change_date/change_date.extension.desktop.in.in:3
 msgid "Change date"
-msgstr ""
+msgstr "Cheñch an deiziad"
 
 #: extensions/change_date/change_date.extension.desktop.in.in:4
 msgid "Change the files date"
-msgstr ""
+msgstr "Cheñch deiziad ar restroù"
 
 #: extensions/comments/comments.extension.desktop.in.in:3
 msgid "Comments and tags"
@@ -1617,11 +1616,11 @@ msgstr ""
 
 #: extensions/convert_format/convert_format.extension.desktop.in.in:4
 msgid "Save images in a different format"
-msgstr ""
+msgstr "Enrollañ ar skeudennoù gant ur furmad disheñvel"
 
 #: extensions/desktop_background/desktop_background.extension.desktop.in.in:3
 msgid "Desktop background"
-msgstr ""
+msgstr "Drekleur ar burev"
 
 #: extensions/desktop_background/desktop_background.extension.desktop.in.in:4
 msgid "Set the image as desktop background"
@@ -1629,27 +1628,27 @@ msgstr ""
 
 #: extensions/edit_metadata/edit_metadata.extension.desktop.in.in:3
 msgid "Edit metadata"
-msgstr ""
+msgstr "Aozañ ar metaroadennoù"
 
 #: extensions/edit_metadata/edit_metadata.extension.desktop.in.in:4
 msgid "Allow to edit files metadata."
-msgstr ""
+msgstr "Aotren aozañ metaroadennoù ar restroù."
 
 #: extensions/exiv2_tools/exiv2_tools.extension.desktop.in.in:3
 msgid "EXIF, IPTC, XMP support"
-msgstr ""
+msgstr "Skor evit EXIF, IPTC, XMP"
 
 #: extensions/exiv2_tools/exiv2_tools.extension.desktop.in.in:4
 msgid "Read and write exif, iptc and xmp metadata."
-msgstr ""
+msgstr "Lenn ha skrivañ metaroadennoù exif, iptc ha xmp."
 
 #: extensions/file_manager/file_manager.extension.desktop.in.in:3
 msgid "File manager"
-msgstr ""
+msgstr "Ardoer restroù"
 
 #: extensions/file_manager/file_manager.extension.desktop.in.in:4
 msgid "File manager operations."
-msgstr ""
+msgstr "Gwezhiadurioù an ardoer restroù."
 
 #: extensions/find_duplicates/find_duplicates.extension.desktop.in.in:3
 #: extensions/find_duplicates/dlg-find-duplicates.c:98
@@ -1667,19 +1666,19 @@ msgstr ""
 
 #: extensions/flicker/flicker.extension.desktop.in.in:4
 msgid "Upload images to Flickr"
-msgstr ""
+msgstr "Pellgas ar skeudennoù da Flickr"
 
 #: extensions/gstreamer_tools/gstreamer_tools.extension.desktop.in.in:3
 msgid "Audio/Video support"
-msgstr ""
+msgstr "Skor aodio/video"
 
 #: extensions/gstreamer_tools/gstreamer_tools.extension.desktop.in.in:4
 msgid "Play audio and video files."
-msgstr ""
+msgstr "Lenn restroù aodio ha video."
 
 #: extensions/image_print/image_print.extension.desktop.in.in:3
 msgid "Image print"
-msgstr ""
+msgstr "Moullañ skeudennoù"
 
 #: extensions/image_print/image_print.extension.desktop.in.in:4
 msgid "Allow to print images choosing the page layout."
@@ -1695,7 +1694,7 @@ msgstr ""
 
 #: extensions/list_tools/list_tools.extension.desktop.in.in:3
 msgid "File list tools"
-msgstr ""
+msgstr "Ostilhoù listañ restroù"
 
 #: extensions/list_tools/list_tools.extension.desktop.in.in:4
 msgid "Scripting and batch manipulation of files."
@@ -1704,7 +1703,7 @@ msgstr ""
 #: extensions/map_view/map_view.extension.desktop.in.in:3
 #: extensions/map_view/gth-map-view.c:225
 msgid "Map"
-msgstr ""
+msgstr "Kartenn"
 
 #: extensions/map_view/map_view.extension.desktop.in.in:4
 msgid "View the photo position on the map"
@@ -1712,7 +1711,7 @@ msgstr ""
 
 #: extensions/photo_importer/photo_importer.extension.desktop.in.in:3
 msgid "Import photos"
-msgstr ""
+msgstr "Enporzhiañ luc'hskeudennoù"
 
 #: extensions/photo_importer/photo_importer.extension.desktop.in.in:4
 msgid "Import photos from removable devices."
@@ -1720,7 +1719,7 @@ msgstr ""
 
 #: extensions/raw_files/raw_files.extension.desktop.in.in:3
 msgid "Raw format support"
-msgstr ""
+msgstr "Skor ar furmad RAW"
 
 #: extensions/raw_files/raw_files.extension.desktop.in.in:4
 msgid "Allow to load raw format images."
@@ -1736,7 +1735,7 @@ msgstr ""
 
 #: extensions/rename_series/rename_series.extension.desktop.in.in:3
 msgid "Rename files"
-msgstr ""
+msgstr "Adenvel restroù"
 
 #: extensions/rename_series/rename_series.extension.desktop.in.in:4
 msgid "Rename series of files."
@@ -1744,7 +1743,7 @@ msgstr ""
 
 #: extensions/resize_images/resize_images.extension.desktop.in.in:3
 msgid "Resize images"
-msgstr ""
+msgstr "Adventañ skeudennoù"
 
 #: extensions/resize_images/resize_images.extension.desktop.in.in:4
 msgid "Resize series of images."
@@ -1753,7 +1752,7 @@ msgstr ""
 #: extensions/search/search.extension.desktop.in.in:3
 #: extensions/search/callbacks.c:197
 msgid "Search"
-msgstr "Sök"
+msgstr "Klask"
 
 #: extensions/search/search.extension.desktop.in.in:4
 msgid "File search tool."
@@ -1763,7 +1762,7 @@ msgstr ""
 #: extensions/selections/gth-selections-manager.c:231
 #: extensions/selections/main.c:33
 msgid "Selections"
-msgstr ""
+msgstr "Diuzadoù"
 
 #: extensions/selections/selections.extension.desktop.in.in:4
 msgid "Advanced file selection."
@@ -1776,15 +1775,15 @@ msgstr ""
 #: extensions/terminal/terminal.extension.desktop.in.in:3
 #: extensions/terminal/actions.c:53
 msgid "Terminal"
-msgstr ""
+msgstr "Termenell"
 
 #: extensions/terminal/terminal.extension.desktop.in.in:4
 msgid "Open a folder in a terminal"
-msgstr ""
+msgstr "Digeriñ un teuliad en un dermenell"
 
 #: extensions/webalbums/webalbums.extension.desktop.in.in:3
 msgid "Web Albums"
-msgstr ""
+msgstr "Albomoù web"
 
 #: extensions/webalbums/webalbums.extension.desktop.in.in:4
 msgid "Create static web albums."
@@ -1792,41 +1791,41 @@ msgstr ""
 
 #: extensions/bookmarks/data/ui/bookmarks-menu.ui:7
 msgid "_Add Bookmark"
-msgstr ""
+msgstr "_Ouzhpennañ ur sined"
 
 #: extensions/bookmarks/data/ui/bookmarks-menu.ui:11
 msgid "_Edit Bookmarks…"
-msgstr ""
+msgstr "Em_bann ar sinedoù..."
 
 #: extensions/bookmarks/data/ui/bookmarks-menu.ui:16
 msgid "_System Bookmarks"
-msgstr ""
+msgstr "Sinedoù ar _reizhiad"
 
 #: extensions/bookmarks/data/ui/bookmarks.ui:20
 msgid "_Bookmarks:"
-msgstr ""
+msgstr "_Sinedoù:"
 
 #: extensions/bookmarks/data/ui/bookmarks.ui:63
 msgid "Go to this location"
-msgstr ""
+msgstr "Mont d'al lec'hiadur-mañ"
 
 #: extensions/bookmarks/data/ui/bookmarks.ui:76
 #: extensions/catalogs/callbacks.c:72
 #: extensions/search/gth-search-source-selector.c:140
 msgid "Remove"
-msgstr ""
+msgstr "Dilemel"
 
 #: extensions/bookmarks/data/ui/bookmarks.ui:125
 msgid "_Name"
-msgstr ""
+msgstr "_Anv"
 
 #: extensions/bookmarks/data/ui/bookmarks.ui:168
 msgid "_Location"
-msgstr ""
+msgstr "_Lec'hiadur"
 
 #: extensions/burn_disc/data/ui/burn-disc-options.ui:21
 msgid "Disc Name"
-msgstr ""
+msgstr "Anv ar bladenn"
 
 #: extensions/burn_disc/data/ui/burn-source-selector.ui:31
 msgid "Current _folder"
@@ -1838,17 +1837,17 @@ msgstr ""
 
 #: extensions/burn_disc/data/ui/burn-source-selector.ui:64
 msgid "_Selected files"
-msgstr ""
+msgstr "_Restroù diuzet"
 
 #: extensions/burn_disc/data/ui/burn-source-selector.ui:86
 msgid "Source"
-msgstr ""
+msgstr "Mammenn"
 
 #: extensions/cairo_io/data/ui/avif-options.ui:34
 #: extensions/cairo_io/data/ui/jpeg-options.ui:71
 #: extensions/cairo_io/data/ui/webp-options.ui:33
 msgid "_Quality:"
-msgstr ""
+msgstr "_Kalite:"
 
 #: extensions/cairo_io/data/ui/avif-options.ui:46
 #: extensions/cairo_io/data/ui/webp-options.ui:62
@@ -1858,7 +1857,7 @@ msgstr ""
 #: extensions/cairo_io/data/ui/jpeg-options.ui:25
 #: extensions/cairo_io/data/ui/tiff-options.ui:32
 msgid "_Default extension:"
-msgstr ""
+msgstr "_Askouezhadenn dre ziouer"
 
 #: extensions/cairo_io/data/ui/jpeg-options.ui:87
 msgid "_Smoothing:"
@@ -1878,7 +1877,7 @@ msgstr ""
 
 #: extensions/cairo_io/data/ui/save-options-preferences.ui:25
 msgid "Default options:"
-msgstr ""
+msgstr "Dibarzhioù dre ziouer:"
 
 #: extensions/cairo_io/data/ui/tga-options.ui:11
 msgid "_RLE compression"
@@ -1907,17 +1906,17 @@ msgstr ""
 #: extensions/cairo_io/data/ui/tiff-options.ui:203
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:173
 msgid "_Horizontal:"
-msgstr ""
+msgstr "A-_blaen :"
 
 #: extensions/cairo_io/data/ui/tiff-options.ui:219
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:206
 msgid "_Vertical:"
-msgstr ""
+msgstr "A-_serzh :"
 
 #: extensions/cairo_io/data/ui/tiff-options.ui:253
 #: extensions/cairo_io/data/ui/tiff-options.ui:292
 msgid "dpi"
-msgstr ""
+msgstr "pdm"
 
 #: extensions/cairo_io/data/ui/webp-options.ui:49
 msgid "_Method:"
@@ -1925,63 +1924,63 @@ msgstr ""
 
 #: extensions/catalogs/data/ui/add-to-catalog.ui:19
 msgid "C_atalogs:"
-msgstr ""
+msgstr "K_atalogoù:"
 
 #: extensions/catalogs/data/ui/add-to-catalog.ui:34
 #: extensions/catalogs/dlg-add-to-catalog.c:620
 msgid "New Library"
-msgstr ""
+msgstr "Levraoueg nevez"
 
 #: extensions/catalogs/data/ui/add-to-catalog.ui:57
 #: extensions/catalogs/dlg-add-to-catalog.c:461
 msgid "New Catalog"
-msgstr ""
+msgstr "Katalog nevez"
 
 #: extensions/catalogs/data/ui/add-to-catalog.ui:103
 #: extensions/file_manager/actions.c:766
 #: extensions/webalbums/gth-web-exporter.c:1820
 msgid "_View the destination"
-msgstr "_Tääl opwiesen"
+msgstr ""
 
 #: extensions/catalogs/data/ui/catalog-properties.ui:68
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:53
 #: extensions/list_tools/data/ui/script-editor.ui:23
 msgid "_Name:"
-msgstr ""
+msgstr "_Anv:"
 
 #: extensions/catalogs/data/ui/catalog-properties.ui:82
 #: extensions/edit_metadata/data/ui/edit-comment-page.ui:31
 msgid "_Date:"
-msgstr ""
+msgstr "_Deiziad:"
 
 #: extensions/catalogs/data/ui/catalog-properties.ui:143
 #: extensions/catalogs/data/ui/organize-files-task.ui:199
 msgid "Catalog"
-msgstr ""
+msgstr "Katalog"
 
 #: extensions/catalogs/data/ui/organize-files-task.ui:145
 msgid "Organization:"
-msgstr ""
+msgstr "Aozadur:"
 
 #: extensions/catalogs/data/ui/organize-files-task.ui:224
 msgid "Files"
-msgstr ""
+msgstr "Restroù"
 
 #: extensions/catalogs/data/ui/organize-files-task.ui:240
 msgid "Create"
-msgstr ""
+msgstr "Krouiñ"
 
 #: extensions/catalogs/data/ui/organize-files-task.ui:281
 msgid "Select All"
-msgstr ""
+msgstr "Diuzañ pep tra"
 
 #: extensions/catalogs/data/ui/organize-files-task.ui:295
 msgid "Select None"
-msgstr ""
+msgstr "Chom hep diuzañ netra"
 
 #: extensions/catalogs/data/ui/organize-files-task.ui:330
 msgid "Catalog _Preview:"
-msgstr ""
+msgstr "A_lberz ar c'hatalog"
 
 #: extensions/catalogs/data/ui/organize-files.ui:93
 msgid "_Group files by:"
@@ -2008,12 +2007,12 @@ msgstr ""
 #: extensions/change_date/data/ui/change-date.ui:12
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:243
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: extensions/change_date/data/ui/change-date.ui:15
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:251
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: extensions/change_date/data/ui/change-date.ui:57
 msgid "Change the following values:"
@@ -2053,15 +2052,15 @@ msgstr ""
 
 #: extensions/change_date/data/ui/change-date.ui:386
 msgid "hours"
-msgstr ""
+msgstr "eurvezh"
 
 #: extensions/change_date/data/ui/change-date.ui:399
 msgid "minutes"
-msgstr ""
+msgstr "a vunutennoù"
 
 #: extensions/change_date/data/ui/change-date.ui:414
 msgid "seconds"
-msgstr ""
+msgstr "eilenn"
 
 #: extensions/comments/data/ui/comments-preferences.ui:12
 msgid "_Synchronize with the embedded metadata"
@@ -2093,7 +2092,7 @@ msgstr ""
 
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:96
 msgid "Background"
-msgstr ""
+msgstr "Drekleur"
 
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:122
 msgid "_Solid color"
@@ -2113,7 +2112,7 @@ msgstr ""
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:640
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:698
 msgid "Select a color"
-msgstr ""
+msgstr "Dibab liv"
 
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:392
 msgid "Frame"
@@ -2121,11 +2120,11 @@ msgstr ""
 
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:421
 msgid "_Style:"
-msgstr ""
+msgstr "_Stil:"
 
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:435
 msgid "C_olor:"
-msgstr ""
+msgstr "L_iv:"
 
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:548
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:106
@@ -2134,13 +2133,13 @@ msgstr ""
 #: extensions/webalbums/data/ui/web-album-exporter.ui:116
 #: extensions/webalbums/data/ui/web-album-exporter.ui:827
 msgid "_Header:"
-msgstr ""
+msgstr "Tal_benn:"
 
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:569
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:626
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:684
 msgid "Select a font"
-msgstr ""
+msgstr "Diuzañ un nodrezh"
 
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:604
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:91
@@ -2149,7 +2148,7 @@ msgstr ""
 #: extensions/webalbums/data/ui/web-album-exporter.ui:101
 #: extensions/webalbums/data/ui/web-album-exporter.ui:812
 msgid "_Footer:"
-msgstr ""
+msgstr "T_road pajenn:"
 
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:663
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:896
@@ -2165,7 +2164,7 @@ msgstr ""
 #: extensions/webalbums/data/ui/web-album-exporter.ui:846
 #: extensions/webalbums/data/ui/web-album-exporter.ui:894
 msgid "Help"
-msgstr ""
+msgstr "Sikour"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:138
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:186
@@ -2173,7 +2172,7 @@ msgstr ""
 #: extensions/contact_sheet/data/ui/image-wall.ui:148
 #: extensions/rename_series/data/ui/rename-series.ui:205
 msgid "Edit template"
-msgstr ""
+msgstr "Aozañ ar patrom"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:261
 #: extensions/contact_sheet/data/ui/image-wall.ui:82
@@ -2195,7 +2194,7 @@ msgstr ""
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:289
 #: extensions/contact_sheet/data/ui/image-wall.ui:109
 msgid "File_name:"
-msgstr ""
+msgstr "Anv ar _restr:"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:391
 msgid "Create _HTML image map"
@@ -2207,48 +2206,48 @@ msgstr ""
 #: extensions/cairo_io/preferences.c:134
 #: extensions/image_viewer/gth-image-viewer-page.c:1703
 msgid "Saving"
-msgstr "Spiekern"
+msgstr "Oc'h enrollañ"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:497
 msgid "Create a new theme"
-msgstr ""
+msgstr "Krouiñ un tem nevez"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:518
 msgid "Edit the selected theme"
-msgstr ""
+msgstr "Aozañ an tem diuzet"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:539
 msgid "Delete the selected theme"
-msgstr ""
+msgstr "Dilemel an tem diuzet"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:570
 #: extensions/webalbums/data/ui/web-album-exporter.ui:450
 msgid "Theme"
-msgstr ""
+msgstr "Tem"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:598
 #: extensions/contact_sheet/data/ui/image-wall.ui:257
 #: extensions/image_print/data/ui/print-layout.ui:595
 #: extensions/webalbums/data/ui/web-album-exporter.ui:572
 msgid "Columns:"
-msgstr ""
+msgstr "Bannoù:"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:620
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:650
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:672
 #: extensions/contact_sheet/data/ui/image-wall.ui:327
 #: extensions/webalbums/data/ui/web-album-exporter.ui:675
 msgid "Images per page:"
-msgstr ""
+msgstr "Skeudennoù dre bajenn:"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:684
 #: extensions/contact_sheet/data/ui/image-wall.ui:339
 #: extensions/webalbums/data/ui/web-album-exporter.ui:650
 msgid "All images on a single page"
-msgstr ""
+msgstr "An holl skeudennoù war ar memes pajenn"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:700
 msgid "_All pages with the same size"
@@ -2258,13 +2257,13 @@ msgstr ""
 #: extensions/contact_sheet/data/ui/image-wall.ui:361
 #: extensions/image_print/data/ui/print-layout.ui:519
 msgid "Layout"
-msgstr ""
+msgstr "Pajennaozañ"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:758
 #: extensions/contact_sheet/data/ui/image-wall.ui:405
 #: extensions/webalbums/data/ui/web-album-exporter.ui:507
 msgid "S_ort:"
-msgstr ""
+msgstr "R_ummañ:"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:793
 #: extensions/contact_sheet/data/ui/image-wall.ui:439
@@ -2275,7 +2274,7 @@ msgstr ""
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:819
 #: extensions/contact_sheet/data/ui/image-wall.ui:465
 msgid "_Size:"
-msgstr ""
+msgstr "_Ment:"
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:857
 msgid "Sq_uared"
@@ -2288,7 +2287,7 @@ msgstr ""
 
 #: extensions/convert_format/data/ui/convert-format.ui:40
 msgid "New format"
-msgstr ""
+msgstr "Furmad nevez"
 
 #: extensions/convert_format/data/ui/convert-format.ui:100
 #: extensions/resize_images/data/ui/resize-images.ui:245
@@ -2302,36 +2301,36 @@ msgstr ""
 
 #: extensions/edit_metadata/data/ui/edit-comment-page.ui:17
 msgid "D_escription:"
-msgstr ""
+msgstr "D_eskrivadur:"
 
 #: extensions/edit_metadata/data/ui/edit-comment-page.ui:81
 msgid "_Place:"
-msgstr ""
+msgstr "_Lec'h:"
 
 #: extensions/edit_metadata/data/ui/edit-comment-page.ui:120
 #: extensions/edit_metadata/data/ui/tag-chooser.ui:16
 msgid "T_ags:"
-msgstr ""
+msgstr "_Tikedennoù:"
 
 #: extensions/edit_metadata/data/ui/edit-comment-page.ui:207
 msgid "_Rating:"
-msgstr ""
+msgstr "_Notenn:"
 
 #: extensions/edit_metadata/data/ui/edit-comment-page.ui:239
 msgid "_Title:"
-msgstr ""
+msgstr "_Titl:"
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:30
 msgid "C_opyright:"
-msgstr ""
+msgstr "C_opyright:"
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:44
 msgid "Co_untry:"
-msgstr ""
+msgstr "_Bro:"
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:77
 msgid "_Code:"
-msgstr ""
+msgstr "_Kod:"
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:128
 msgid "Cr_edit:"
@@ -2340,7 +2339,7 @@ msgstr ""
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:188
 #: extensions/photo_importer/data/ui/photo-importer.ui:21
 msgid "_Source:"
-msgstr ""
+msgstr "_Mammenn:"
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:229
 msgid "_Urgency:"
@@ -2348,7 +2347,7 @@ msgstr ""
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:244
 msgid "_Object Name:"
-msgstr ""
+msgstr "An_v elfenn:"
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:293
 msgid "Byline _Title:"
@@ -2360,21 +2359,21 @@ msgstr ""
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:363
 msgid "_City:"
-msgstr ""
+msgstr "Kê_r:"
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:379
 msgid "_Language:"
-msgstr ""
+msgstr "_Yezh:"
 
 #: extensions/exiv2_tools/data/ui/edit-exiv2-page.ui:435
 msgid "State/Province:"
-msgstr ""
+msgstr "Rannvro:"
 
 #: extensions/file_tools/data/ui/adjust-colors-options.ui:56
 #: extensions/file_tools/data/ui/curves-options.ui:35
 #: extensions/file_tools/data/ui/sharpen-options.ui:45
 msgid "_Preview"
-msgstr ""
+msgstr "_Alberz"
 
 #: extensions/file_tools/data/ui/adjust-colors-options.ui:94
 msgid "B_rightness:"
@@ -2390,7 +2389,7 @@ msgstr ""
 
 #: extensions/file_tools/data/ui/adjust-colors-options.ui:213
 msgid "G_amma:"
-msgstr ""
+msgstr "G_amma:"
 
 #: extensions/file_tools/data/ui/adjust-colors-options.ui:230
 msgid "Cyan-_Red:"
@@ -2402,7 +2401,7 @@ msgstr ""
 
 #: extensions/file_tools/data/ui/adjust-colors-options.ui:268
 msgid "_Yellow-Blue:"
-msgstr ""
+msgstr "_Melen-Glas:"
 
 #: extensions/file_tools/data/ui/adjust-colors-options.ui:294
 msgid "Color Levels"
@@ -2417,16 +2416,16 @@ msgstr ""
 #: extensions/file_tools/data/ui/color-picker-options.ui:63
 #: extensions/red_eye_removal/data/ui/red-eye-removal-options.ui:60
 msgid "_X:"
-msgstr ""
+msgstr "_X:"
 
 #: extensions/file_tools/data/ui/color-picker-options.ui:77
 #: extensions/red_eye_removal/data/ui/red-eye-removal-options.ui:74
 msgid "_Y:"
-msgstr ""
+msgstr "_Y:"
 
 #: extensions/file_tools/data/ui/color-picker-options.ui:175
 msgid "Color"
-msgstr ""
+msgstr "Liv"
 
 #: extensions/file_tools/data/ui/color-picker-options.ui:206
 #: extensions/file_tools/data/ui/color-picker-options.ui:219
@@ -2440,26 +2439,26 @@ msgstr ""
 #: extensions/file_manager/callbacks.c:103
 #: extensions/file_manager/callbacks.c:124
 msgid "Copy"
-msgstr ""
+msgstr "Eilañ"
 
 #: extensions/file_tools/data/ui/crop-options.ui:77
 msgid "_Grid:"
-msgstr ""
+msgstr "_Kael:"
 
 #: extensions/file_tools/data/ui/crop-options.ui:141
 msgid "Selection"
-msgstr ""
+msgstr "Diuzadenn"
 
 #: extensions/file_tools/data/ui/crop-options.ui:201
 #: extensions/file_tools/data/ui/resize-options.ui:170
 #: extensions/resize_images/data/ui/resize-images.ui:106
 msgid "_Width:"
-msgstr ""
+msgstr "_Ledander:"
 
 #: extensions/file_tools/data/ui/crop-options.ui:242
 #: extensions/file_tools/data/ui/resize-options.ui:184
 msgid "Heigh_t:"
-msgstr ""
+msgstr "U_helder:"
 
 #: extensions/file_tools/data/ui/crop-options.ui:257
 msgid "_Position:"
@@ -2467,11 +2466,11 @@ msgstr ""
 
 #: extensions/file_tools/data/ui/crop-options.ui:350
 msgid "Maximize"
-msgstr ""
+msgstr "Brasaat"
 
 #: extensions/file_tools/data/ui/crop-options.ui:373
 msgid "Center"
-msgstr ""
+msgstr "Kreiz"
 
 #: extensions/file_tools/data/ui/crop-options.ui:503
 #: extensions/file_tools/data/ui/resize-options.ui:460
@@ -2486,7 +2485,7 @@ msgstr ""
 #. abbreviation of pixel
 #: extensions/file_tools/data/ui/crop-options.ui:559
 msgid "px"
-msgstr ""
+msgstr "px"
 
 #: extensions/file_tools/data/ui/curves-options.ui:53
 msgid "Include current channel"
@@ -2498,12 +2497,12 @@ msgstr ""
 
 #: extensions/file_tools/data/ui/resize-options.ui:105
 msgid "pixels"
-msgstr ""
+msgstr "a bikselioù"
 
 #: extensions/file_tools/data/ui/resize-options.ui:109
 #: extensions/resize_images/data/ui/resize-images.ui:32
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: extensions/file_tools/data/ui/resize-options.ui:295
 #: extensions/file_tools/data/ui/resize-options.ui:296
@@ -2514,7 +2513,7 @@ msgstr ""
 
 #: extensions/file_tools/data/ui/resize-options.ui:515
 msgid "Original dimensions:"
-msgstr ""
+msgstr "Mentoù orin:"
 
 #: extensions/file_tools/data/ui/resize-options.ui:530
 msgid "Scale factor:"
@@ -2522,27 +2521,27 @@ msgstr ""
 
 #: extensions/file_tools/data/ui/resize-options.ui:581
 msgid "New dimensions:"
-msgstr ""
+msgstr "Mentoù nevez:"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:77
 msgid "Grid:"
-msgstr ""
+msgstr "Kael:"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:90
 msgid "_Background:"
-msgstr ""
+msgstr "_Drekleur:"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:116
 msgid "Pick a background color"
-msgstr ""
+msgstr "Dibabit liv an drekleur"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:134
 msgid "_Transparent"
-msgstr ""
+msgstr "_Treuzwelus"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:182
 msgid "Original size"
-msgstr ""
+msgstr "Ment orin"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:185
 msgid "Bounding box"
@@ -2558,19 +2557,19 @@ msgstr ""
 
 #: extensions/file_tools/data/ui/rotate-options.ui:281
 msgid "Align"
-msgstr ""
+msgstr "Steudañ"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:326
 msgid "Image size"
-msgstr ""
+msgstr "Ment ar skeudenn"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:416
 msgid "Point 1:"
-msgstr ""
+msgstr "Poent 1:"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:433
 msgid "Point 2:"
-msgstr ""
+msgstr "Poent 2:"
 
 #: extensions/file_tools/data/ui/rotate-options.ui:447
 msgid "Keep aspect ratio"
@@ -2592,7 +2591,7 @@ msgstr ""
 
 #: extensions/file_tools/data/ui/rotate-options.ui:604
 msgid "Alignment"
-msgstr ""
+msgstr "Steudañ"
 
 #: extensions/file_tools/data/ui/sharpen-options.ui:83
 msgid "Threshold:"
@@ -2604,11 +2603,11 @@ msgstr ""
 
 #: extensions/file_tools/data/ui/sharpen-options.ui:151
 msgid "Amount:"
-msgstr ""
+msgstr "Kementad:"
 
 #: extensions/find_duplicates/data/ui/find-duplicates-choose-folders.ui:26
 msgid "_Folders:"
-msgstr ""
+msgstr "_Teuliadoù:"
 
 #: extensions/find_duplicates/data/ui/find-duplicates-dialog.ui:225
 msgid "Duplicates:"
@@ -2616,11 +2615,11 @@ msgstr ""
 
 #: extensions/find_duplicates/data/ui/find-duplicates-dialog.ui:291
 msgid "Files:"
-msgstr ""
+msgstr "Restroù:"
 
 #: extensions/find_duplicates/data/ui/find-duplicates-dialog.ui:381
 msgid "Last modified"
-msgstr ""
+msgstr "Kemm diwezhañ"
 
 #: extensions/find_duplicates/data/ui/find-duplicates-dialog.ui:438
 msgid "_View"
@@ -2638,11 +2637,11 @@ msgstr ""
 
 #: extensions/find_duplicates/data/ui/find-duplicates.ui:94
 msgid "_Filter:"
-msgstr ""
+msgstr "_Sil:"
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:35
 msgid "Public photos"
-msgstr ""
+msgstr "Luc'hskeudennoù publik"
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:39
 msgid "Private photos, visible to family and friends"
@@ -2658,7 +2657,7 @@ msgstr ""
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:51
 msgid "Private photos"
-msgstr ""
+msgstr "Luc'hskeudennoù prevez"
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:73
 msgid "Safe content"
@@ -2674,16 +2673,16 @@ msgstr ""
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:150
 msgid "_Account:"
-msgstr ""
+msgstr "_Kont:"
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:198
 #: extensions/flicker_utils/data/ui/import-from-flickr.ui:86
 msgid "Edit accounts"
-msgstr ""
+msgstr "Aozañ ar c'hontoù"
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:229
 msgid "Free space:"
-msgstr ""
+msgstr "Egor dieub:"
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:275
 #: extensions/flicker_utils/data/ui/import-from-flickr.ui:134
@@ -2692,11 +2691,11 @@ msgstr ""
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:291
 msgid "_Privacy:"
-msgstr ""
+msgstr "Buhe_z prevez"
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:329
 msgid "_Safety:"
-msgstr ""
+msgstr "_Surentez:"
 
 #: extensions/flicker_utils/data/ui/export-to-flickr.ui:405
 msgid "Hi_de from public searches"
@@ -2710,34 +2709,34 @@ msgstr ""
 #: extensions/flicker_utils/data/ui/import-from-flickr.ui:120
 #: extensions/oauth/data/ui/oauth-account-chooser.ui:33
 msgid "A_ccount:"
-msgstr ""
+msgstr "Ko_nt:"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:29
 #: extensions/gstreamer_tools/gth-media-viewer-page.c:622
 #: extensions/image_viewer/gth-image-viewer-page.c:1182
 msgid "Play"
-msgstr "Speelen"
+msgstr "Lenn"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:50
 msgid "Slower"
-msgstr ""
+msgstr "Gorrekoc'h"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:72
 msgid "Faster"
-msgstr ""
+msgstr "Buanoc'h"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:94
 msgid "Restart when finished"
-msgstr ""
+msgstr "Adloc'hañ pa vo echu"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:130
 msgid "Time:"
-msgstr ""
+msgstr "Amzer:"
 
 #. minus 5 seconds
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:297
 msgid "-5s"
-msgstr ""
+msgstr "-5eil"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:301
 #: extensions/gstreamer_tools/callbacks.c:44
@@ -2747,7 +2746,7 @@ msgstr ""
 #. minus 10 seconds
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:311
 msgid "-10s"
-msgstr ""
+msgstr "-10eil"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:315
 #: extensions/gstreamer_tools/callbacks.c:45
@@ -2757,7 +2756,7 @@ msgstr ""
 #. minus 1 minute
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:325
 msgid "-1m"
-msgstr ""
+msgstr "-1vun"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:329
 #: extensions/gstreamer_tools/callbacks.c:46
@@ -2767,7 +2766,7 @@ msgstr ""
 #. minus 5 minutes
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:339
 msgid "-5m"
-msgstr ""
+msgstr "-5mun"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:343
 #: extensions/gstreamer_tools/callbacks.c:47
@@ -2777,7 +2776,7 @@ msgstr ""
 #. plus 5 seconds
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:353
 msgid "+5s"
-msgstr ""
+msgstr "+5eil"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:357
 #: extensions/gstreamer_tools/callbacks.c:39
@@ -2787,7 +2786,7 @@ msgstr ""
 #. plus 10 seconds
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:367
 msgid "+10s"
-msgstr ""
+msgstr "+10eil"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:371
 #: extensions/gstreamer_tools/callbacks.c:40
@@ -2797,7 +2796,7 @@ msgstr ""
 #. plus 1 minute
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:381
 msgid "+1m"
-msgstr ""
+msgstr "+1vun"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:385
 #: extensions/gstreamer_tools/callbacks.c:41
@@ -2807,7 +2806,7 @@ msgstr ""
 #. plus 5 minutes
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:395
 msgid "+5m"
-msgstr ""
+msgstr "+5mun"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:399
 #: extensions/gstreamer_tools/callbacks.c:42
@@ -2817,7 +2816,7 @@ msgstr ""
 #. minus 1 second
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:443
 msgid "-1s"
-msgstr ""
+msgstr "-1eil"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:447
 #: extensions/gstreamer_tools/callbacks.c:43
@@ -2827,7 +2826,7 @@ msgstr ""
 #. plus 1 second
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:457
 msgid "+1s"
-msgstr ""
+msgstr "+1eil"
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:461
 #: extensions/gstreamer_tools/callbacks.c:38
@@ -2844,11 +2843,11 @@ msgstr ""
 
 #: extensions/image_print/data/ui/print-layout.ui:14
 msgid "Centered"
-msgstr ""
+msgstr "Kreizet"
 
 #: extensions/image_print/data/ui/print-layout.ui:18
 msgid "Custom"
-msgstr ""
+msgstr "Personelaet"
 
 #: extensions/image_print/data/ui/print-layout.ui:126
 msgid "millimeters"
@@ -2868,12 +2867,12 @@ msgstr ""
 
 #: extensions/image_print/data/ui/print-layout.ui:267
 msgid "Special code"
-msgstr ""
+msgstr "Kod ispisial"
 
 #. translate only the text in the curly brackets
 #: extensions/image_print/data/ui/print-layout.ui:299
 msgid "%D{ format }"
-msgstr ""
+msgstr "%D{ furmad }"
 
 #: extensions/image_print/data/ui/print-layout.ui:315
 msgid "The current date"
@@ -2889,11 +2888,11 @@ msgstr ""
 
 #: extensions/image_print/data/ui/print-layout.ui:610
 msgid "_Rows:"
-msgstr ""
+msgstr "_Renkoù:"
 
 #: extensions/image_print/data/ui/print-layout.ui:720
 msgid "Image"
-msgstr ""
+msgstr "Skeudenn"
 
 #: extensions/image_print/data/ui/print-layout.ui:762
 msgid "Position:"
@@ -2901,7 +2900,7 @@ msgstr ""
 
 #: extensions/image_print/data/ui/print-layout.ui:779
 msgid "Left"
-msgstr ""
+msgstr "Kleiz"
 
 #: extensions/image_print/data/ui/print-layout.ui:795
 msgid "Top"
@@ -2910,12 +2909,12 @@ msgstr ""
 #: extensions/image_print/data/ui/print-layout.ui:856
 #: extensions/gstreamer_tools/main.c:54
 msgid "Width"
-msgstr "Brede"
+msgstr "Ledander"
 
 #: extensions/image_print/data/ui/print-layout.ui:872
 #: extensions/gstreamer_tools/main.c:55
 msgid "Height"
-msgstr "Höhe"
+msgstr "Uhelder"
 
 #: extensions/image_print/data/ui/print-layout.ui:943
 msgid "Rotation:"
@@ -2923,15 +2922,15 @@ msgstr ""
 
 #: extensions/image_print/data/ui/print-layout.ui:1002
 msgid "Unit:"
-msgstr ""
+msgstr "Unanenn:"
 
 #: extensions/image_print/data/ui/print-layout.ui:1056
 msgid "Preview"
-msgstr ""
+msgstr "Alberz"
 
 #: extensions/image_print/data/ui/print-preferences.ui:14
 msgid "Fonts"
-msgstr ""
+msgstr "Nodrezhoù"
 
 #: extensions/image_print/data/ui/print-preferences.ui:87
 msgid "Select Caption Font"
@@ -2939,7 +2938,7 @@ msgstr ""
 
 #: extensions/image_print/data/ui/print-preferences.ui:104
 msgid "Select Header Font"
-msgstr ""
+msgstr "Diuzañ nodrezh an dalbenn"
 
 #: extensions/image_print/data/ui/print-preferences.ui:121
 msgid "Select Footer Font"
@@ -2989,7 +2988,7 @@ msgstr ""
 #: extensions/image_viewer/data/ui/image-viewer-preferences.ui:131
 msgctxt "zoom quality"
 msgid "Change image"
-msgstr ""
+msgstr "Cheñch a skeudenn"
 
 #: extensions/image_viewer/data/ui/image-viewer-preferences.ui:148
 msgctxt "zoom quality"
@@ -3003,12 +3002,12 @@ msgstr ""
 #: extensions/image_viewer/data/ui/image-viewer-preferences.ui:209
 msgctxt "zoom quality"
 msgid "_High"
-msgstr ""
+msgstr "_Uhel"
 
 #: extensions/image_viewer/data/ui/image-viewer-preferences.ui:226
 msgctxt "zoom quality"
 msgid "_Low"
-msgstr ""
+msgstr "_Izel"
 
 #: extensions/image_viewer/data/ui/image-viewer-preferences.ui:266
 msgid "Transparency:"
@@ -3022,21 +3021,21 @@ msgstr ""
 #: extensions/image_viewer/data/ui/image-viewer-preferences.ui:296
 #: extensions/image_viewer/data/ui/toolbar-zoom-menu.ui:24
 msgid "White"
-msgstr ""
+msgstr "Gwenn"
 
 #: extensions/image_viewer/data/ui/image-viewer-preferences.ui:297
 #: extensions/image_viewer/data/ui/toolbar-zoom-menu.ui:33
 msgid "Gray"
-msgstr ""
+msgstr "Loued"
 
 #: extensions/image_viewer/data/ui/image-viewer-preferences.ui:298
 #: extensions/image_viewer/data/ui/toolbar-zoom-menu.ui:42
 msgid "Black"
-msgstr ""
+msgstr "Du"
 
 #: extensions/image_viewer/data/ui/toolbar-zoom-menu.ui:62
 msgid "Automatic"
-msgstr ""
+msgstr "Emgefreek"
 
 #: extensions/image_viewer/data/ui/toolbar-zoom-menu.ui:89
 msgid "Fit to height"
@@ -3044,19 +3043,19 @@ msgstr ""
 
 #: extensions/image_viewer/data/ui/toolbar-zoom-menu.ui:106
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 #: extensions/image_viewer/data/ui/toolbar-zoom-menu.ui:115
 msgid "100%"
-msgstr ""
+msgstr "100%"
 
 #: extensions/image_viewer/data/ui/toolbar-zoom-menu.ui:124
 msgid "200%"
-msgstr ""
+msgstr "200%"
 
 #: extensions/image_viewer/data/ui/toolbar-zoom-menu.ui:133
 msgid "300%"
-msgstr ""
+msgstr "300%"
 
 #: extensions/importer/data/ui/import-preferences.ui:21
 msgid "_Destination"
@@ -3069,7 +3068,7 @@ msgstr ""
 #: extensions/importer/data/ui/import-preferences.ui:89
 #: extensions/rename_series/data/ui/rename-series.ui:156
 msgid "_Template:"
-msgstr ""
+msgstr "_Patrom:"
 
 #: extensions/list_tools/data/ui/personalize-scripts.ui:29
 msgid "Co_mmands:"
@@ -3089,19 +3088,19 @@ msgstr ""
 
 #: extensions/list_tools/data/ui/script-editor.ui:101
 msgid "Sh_ortcut:"
-msgstr ""
+msgstr "Be_rradenn:"
 
 #: extensions/list_tools/data/ui/script-editor.ui:137
 msgid "_Command:"
-msgstr ""
+msgstr "_Urzhiad:"
 
 #: extensions/list_tools/data/ui/script-editor.ui:172
 msgid "Edit command"
-msgstr ""
+msgstr "Aozañ an urzhiad"
 
 #: extensions/oauth/data/ui/oauth-account-manager.ui:23
 msgid "A_ccounts:"
-msgstr ""
+msgstr "_Kontoù:"
 
 #: extensions/photo_importer/data/ui/photo-importer-options.ui:15
 msgid "After importing from a device:"
@@ -3118,15 +3117,15 @@ msgstr ""
 
 #: extensions/photo_importer/data/ui/photo-importer.ui:185
 msgid "_Event:"
-msgstr ""
+msgstr "_Darvoud:"
 
 #: extensions/photo_importer/data/ui/photo-importer.ui:245
 msgid "_Tags:"
-msgstr ""
+msgstr "_Tikedennoù:"
 
 #: extensions/rename_series/data/ui/rename-series.ui:42
 msgid "_Sort by:"
-msgstr ""
+msgstr "_Rummañ dre:"
 
 #. Translators: this is the text case (upper or lower case).
 #: extensions/rename_series/data/ui/rename-series.ui:55
@@ -3143,19 +3142,19 @@ msgstr ""
 
 #: extensions/rename_series/data/ui/rename-series.ui:265
 msgid "_Preview:"
-msgstr ""
+msgstr "_Alberz:"
 
 #: extensions/resize_images/data/ui/resize-images.ui:29
 msgid "pixel"
-msgstr ""
+msgstr "piksel"
 
 #: extensions/resize_images/data/ui/resize-images.ui:68
 msgid "New dimensions"
-msgstr ""
+msgstr "Mentoù nevez"
 
 #: extensions/resize_images/data/ui/resize-images.ui:120
 msgid "_Height:"
-msgstr ""
+msgstr "U_helder:"
 
 #: extensions/resize_images/data/ui/resize-images.ui:203
 msgid "_Preserve original aspect ratios"
@@ -3163,7 +3162,7 @@ msgstr ""
 
 #: extensions/slideshow/data/ui/slideshow-preferences.ui:46
 msgid "_Personalize"
-msgstr ""
+msgstr "_Personelaat"
 
 #: extensions/slideshow/data/ui/slideshow-preferences.ui:100
 msgid "_Transition effect:"
@@ -3177,7 +3176,7 @@ msgstr ""
 #: extensions/slideshow/data/ui/slideshow-preferences.ui:162
 msgctxt "Every x seconds"
 msgid "seconds"
-msgstr ""
+msgstr "eilenn"
 
 #: extensions/slideshow/data/ui/slideshow-preferences.ui:186
 msgid "_Restart when finished"
@@ -3185,11 +3184,11 @@ msgstr ""
 
 #: extensions/slideshow/data/ui/slideshow-preferences.ui:201
 msgid "R_andom order"
-msgstr ""
+msgstr "Urzh dre ze_gouez"
 
 #: extensions/slideshow/data/ui/slideshow-preferences.ui:237
 msgid "Playlist"
-msgstr ""
+msgstr "Roll tonioù"
 
 #: extensions/slideshow/data/ui/slideshow-preferences.ui:314
 msgid "Add files to the playlist"
@@ -3197,7 +3196,7 @@ msgstr ""
 
 #: extensions/slideshow/data/ui/slideshow-preferences.ui:334
 msgid "Remove the selected files"
-msgstr ""
+msgstr "Dilemel ar restroù diuzet"
 
 #: extensions/webalbums/data/ui/web-album-exporter.ui:19
 msgid "All images on a single image"
@@ -3210,7 +3209,7 @@ msgstr ""
 #: extensions/webalbums/data/ui/web-album-exporter.ui:227
 #: extensions/gstreamer_tools/main.c:48
 msgid "Album"
-msgstr "Album"
+msgstr "Albom"
 
 #: extensions/webalbums/data/ui/web-album-exporter.ui:302
 msgid "_Copy originals to destination"
@@ -3232,7 +3231,7 @@ msgstr ""
 #: extensions/webalbums/data/ui/web-album-exporter.ui:945
 #: extensions/webalbums/data/ui/web-album-exporter.ui:1061
 msgid "Image Page"
-msgstr ""
+msgstr "Pajenn ar skeudenn"
 
 #: extensions/webalbums/data/ui/web-album-exporter.ui:979
 msgid "Show the description, if available"
@@ -3244,11 +3243,11 @@ msgstr ""
 
 #: extensions/webalbums/data/ui/web-album-exporter.ui:1039
 msgid "Image Attributes"
-msgstr ""
+msgstr "Doareennoù ar skeudenn"
 
 #: extensions/bookmarks/dlg-bookmarks.c:192
 msgid "Could not remove the bookmark"
-msgstr ""
+msgstr "N'haller ket dilemel ar sined"
 
 #: extensions/burn_disc/callbacks.c:48
 msgid "_Optical Disc…"
@@ -3272,7 +3271,7 @@ msgstr ""
 
 #: extensions/cairo_io/gth-image-saver-avif.c:365
 msgid "AVIF"
-msgstr ""
+msgstr "AVIF"
 
 #: extensions/cairo_io/gth-image-saver-jpeg.c:517
 #: extensions/image_viewer/gth-metadata-provider-image.c:154
@@ -3295,7 +3294,7 @@ msgstr "TIFF"
 #: extensions/cairo_io/gth-image-saver-webp.c:383
 #: extensions/image_viewer/gth-metadata-provider-image.c:183
 msgid "WebP"
-msgstr ""
+msgstr "WebP"
 
 #: extensions/catalogs/actions.c:152 extensions/catalogs/actions.c:266
 #: extensions/catalogs/dlg-add-to-catalog.c:440
@@ -3307,7 +3306,7 @@ msgstr ""
 
 #: extensions/catalogs/actions.c:177
 msgid "New catalog"
-msgstr ""
+msgstr "Katalog nevez"
 
 #: extensions/catalogs/actions.c:178
 #: extensions/catalogs/dlg-add-to-catalog.c:462
@@ -3319,11 +3318,11 @@ msgstr ""
 #: extensions/catalogs/dlg-add-to-catalog.c:623
 #: extensions/file_manager/actions.c:140
 msgid "C_reate"
-msgstr "_Erstellen"
+msgstr "K_rouiñ"
 
 #: extensions/catalogs/actions.c:291
 msgid "New library"
-msgstr ""
+msgstr "Levraoueg nevez"
 
 #: extensions/catalogs/actions.c:292
 #: extensions/catalogs/dlg-add-to-catalog.c:621
@@ -3332,40 +3331,40 @@ msgstr ""
 
 #: extensions/catalogs/actions.c:327
 msgid "Could not remove the catalog"
-msgstr ""
+msgstr "N'haller ket dilemel ar c'hatalog"
 
 #: extensions/catalogs/actions.c:366
 #, c-format
 msgid "Are you sure you want to remove “%s”?"
-msgstr ""
+msgstr "Ha sur oc'h e fell deoc'h dilemel \"%s\"?"
 
 #: extensions/catalogs/callbacks.c:52
 msgid "Add to Catalog…"
-msgstr ""
+msgstr "Ouzhpennañ d'ar c'hatalog"
 
 #: extensions/catalogs/callbacks.c:57 extensions/selections/callbacks.c:78
 msgid "Open Folder"
-msgstr ""
+msgstr "Digeriñ an teuliad"
 
 #: extensions/catalogs/callbacks.c:62
 msgid "Remove from Catalog"
-msgstr ""
+msgstr "Dilemel diouzh ar c'hatalog"
 
 #: extensions/catalogs/callbacks.c:67
 msgid "Create Catalog"
-msgstr ""
+msgstr "Krouiñ ur c'hatalog"
 
 #: extensions/catalogs/callbacks.c:68
 msgid "Create Library"
-msgstr ""
+msgstr "Krouiñ ul levraoueg"
 
 #: extensions/catalogs/callbacks.c:223 extensions/catalogs/callbacks.c:226
 msgid "Command Line"
-msgstr "Orderreeg"
+msgstr ""
 
 #: extensions/catalogs/callbacks.c:379
 msgid "Catalog Properties"
-msgstr "Katalogeegenschapten"
+msgstr "Perzhioù ar c'hatalog"
 
 #: extensions/catalogs/callbacks.c:395
 msgid "Organize"
@@ -3377,20 +3376,20 @@ msgstr ""
 
 #: extensions/catalogs/dlg-add-to-catalog.c:156
 msgid "Could not add the files to the catalog"
-msgstr ""
+msgstr "N'haller ket ouzhpennañ ar restroù d'ar c'hatalog"
 
 #: extensions/catalogs/dlg-add-to-catalog.c:319
 #: extensions/search/gth-search-task.c:396
 msgid "Could not create the catalog"
-msgstr ""
+msgstr "N'haller ket krouiñ ar c'hatalog"
 
 #: extensions/catalogs/dlg-add-to-catalog.c:687
 msgid "Add to Catalog"
-msgstr ""
+msgstr "Ouzhpennañ d'ar c'hatalog"
 
 #: extensions/catalogs/dlg-add-to-catalog.c:710
 msgid "_Add"
-msgstr ""
+msgstr "_Ouzhpennañ"
 
 #: extensions/catalogs/dlg-add-to-catalog.c:714
 #: extensions/edit_metadata/dlg-edit-metadata.c:347
@@ -3399,11 +3398,11 @@ msgstr ""
 
 #: extensions/catalogs/dlg-catalog-properties.c:80
 msgid "Could not save the catalog"
-msgstr ""
+msgstr "N'haller ket enrollañ ar c'hatalog"
 
 #: extensions/catalogs/dlg-catalog-properties.c:154
 msgid "Could not load the catalog"
-msgstr ""
+msgstr "N'haller ket kargañ ar c'hatalog"
 
 #: extensions/catalogs/dlg-organize-files.c:106
 #: extensions/catalogs/gth-organize-task.c:812
@@ -3416,7 +3415,7 @@ msgstr ""
 
 #: extensions/catalogs/dlg-organize-files.c:152 extensions/comments/main.c:186
 msgid "Tag"
-msgstr "Slötelwoort"
+msgstr "Tikedenn"
 
 #: extensions/catalogs/gth-file-source-catalogs.c:958
 #, c-format
@@ -3430,15 +3429,15 @@ msgstr ""
 
 #: extensions/catalogs/gth-file-source-catalogs.c:968
 msgid "Over_write"
-msgstr ""
+msgstr "_Flastrañ"
 
 #: extensions/catalogs/gth-file-source-catalogs.c:1087
 msgid "Cannot move the files"
-msgstr ""
+msgstr "N'haller ket dilec'hiañ ar restroù"
 
 #: extensions/catalogs/gth-file-source-catalogs.c:1089
 msgid "Cannot copy the files"
-msgstr ""
+msgstr "N'haller ket eilañ ar restroù"
 
 #: extensions/catalogs/gth-file-source-catalogs.c:1094
 msgid "Invalid destination."
@@ -3447,7 +3446,7 @@ msgstr ""
 #: extensions/catalogs/gth-file-source-catalogs.c:1141
 #, c-format
 msgid "Copying files to “%s”"
-msgstr ""
+msgstr "Oc'h eilañ restroù da \"%s\""
 
 #: extensions/catalogs/gth-file-source-catalogs.c:1321
 msgid "Could not remove the files from the catalog"
@@ -3460,11 +3459,11 @@ msgstr ""
 
 #: extensions/change_date/callbacks.c:38
 msgid "Change _Date…"
-msgstr ""
+msgstr "Cheñch an _deiziad..."
 
 #: extensions/change_date/dlg-change-date.c:177
 msgid "Change Date"
-msgstr ""
+msgstr "Cheñch an deiziad"
 
 #: extensions/comments/callbacks.c:39
 msgid "Import Embedded Metadata"
@@ -3480,7 +3479,7 @@ msgstr ""
 
 #: extensions/contact_sheet/callbacks.c:39
 msgid "Image _Wall…"
-msgstr ""
+msgstr "Moger a _skeudennoù..."
 
 #: extensions/contact_sheet/dlg-contact-sheet.c:35
 #: extensions/contact_sheet/dlg-image-wall.c:34
@@ -3498,7 +3497,7 @@ msgstr ""
 #: extensions/webalbums/dlg-web-exporter.c:38
 #: extensions/webalbums/dlg-web-exporter.c:47
 msgid "Current date"
-msgstr "Aktueller Dag"
+msgstr ""
 
 #: extensions/contact_sheet/dlg-contact-sheet.c:40
 #: extensions/image_print/gth-image-print-job.c:37
@@ -3516,19 +3515,19 @@ msgstr ""
 #: extensions/contact_sheet/dlg-contact-sheet.c:517
 #: extensions/contact_sheet/dlg-contact-sheet.c:531
 msgid "Could not save the theme"
-msgstr ""
+msgstr "N'haller ket enrollañ an tem"
 
 #: extensions/contact_sheet/dlg-contact-sheet.c:676
 msgid "Could not delete the theme"
-msgstr ""
+msgstr "N'haller ket dilemel an tem"
 
 #: extensions/contact_sheet/dlg-image-wall.c:248
 msgid "Image Wall"
-msgstr ""
+msgstr "Moger a skeudennoù"
 
 #: extensions/contact_sheet/gth-contact-sheet-creator.c:304
 msgid "Creating images"
-msgstr ""
+msgstr "O krouiñ skeudennoù"
 
 #: extensions/contact_sheet/gth-contact-sheet-creator.c:969
 msgid "Generating thumbnails"
@@ -3536,7 +3535,7 @@ msgstr ""
 
 #: extensions/contact_sheet/gth-contact-sheet-theme.c:32
 msgid "Header"
-msgstr "Kopprebeet"
+msgstr "Talbenn"
 
 #: extensions/contact_sheet/gth-contact-sheet-theme.c:33
 msgid "Footer"
@@ -3544,15 +3543,15 @@ msgstr ""
 
 #: extensions/contact_sheet/gth-contact-sheet-theme-dialog.c:194
 msgid "Theme Properties"
-msgstr ""
+msgstr "Perzhioù an tem"
 
 #: extensions/contact_sheet/gth-contact-sheet-theme-dialog.c:206
 msgid "Copy _From"
-msgstr ""
+msgstr "Eilañ _diouzh"
 
 #: extensions/contact_sheet/gth-contact-sheet-theme-dialog.c:313
 msgid "New theme"
-msgstr ""
+msgstr "Tem nevez"
 
 #: extensions/convert_format/callbacks.c:38
 msgid "Convert Format…"
@@ -3572,7 +3571,7 @@ msgstr ""
 
 #: extensions/desktop_background/actions.c:369
 msgid "_Undo"
-msgstr ""
+msgstr "D_izober"
 
 #: extensions/desktop_background/actions.c:399
 #: extensions/desktop_background/actions.c:448
@@ -3602,15 +3601,15 @@ msgstr ""
 
 #: extensions/edit_metadata/callbacks.c:46
 msgid "Edit tags"
-msgstr ""
+msgstr "Aozañ an tikedennoù"
 
 #: extensions/edit_metadata/callbacks.c:51
 msgid "Delete Metadata"
-msgstr ""
+msgstr "Dilemel ar metaroadennoù"
 
 #: extensions/edit_metadata/dlg-edit-metadata.c:123
 msgid "Could not save the file metadata"
-msgstr ""
+msgstr "N'haller ket enrollañ metaroadennoù ar restr"
 
 #: extensions/edit_metadata/gth-edit-comment-dialog.c:138
 msgid "Save only cha_nged fields"
@@ -3618,7 +3617,7 @@ msgstr ""
 
 #: extensions/edit_metadata/gth-edit-general-page.c:554
 msgid "No date"
-msgstr "Keen Dag"
+msgstr "Deiziad ebet"
 
 #: extensions/edit_metadata/gth-edit-general-page.c:555
 msgid "The following date"
@@ -3626,15 +3625,15 @@ msgstr ""
 
 #: extensions/edit_metadata/gth-edit-general-page.c:558
 msgid "Last modified date"
-msgstr "Tolest ännert"
+msgstr "Deiziad ar c'hemm diwezhañ"
 
 #: extensions/edit_metadata/gth-edit-general-page.c:559
 msgid "File creation date"
-msgstr ""
+msgstr "Deiziad krouidigezh ar restr"
 
 #: extensions/edit_metadata/gth-edit-general-page.c:560
 msgid "Do not modify"
-msgstr "Nich ännern"
+msgstr "Chom hep kemmañ"
 
 #: extensions/edit_metadata/gth-tag-task.c:122
 #: extensions/edit_metadata/gth-tag-task.c:139
@@ -3643,15 +3642,15 @@ msgstr ""
 
 #: extensions/edit_metadata/gth-tag-task.c:122
 msgid "Writing files"
-msgstr ""
+msgstr "O skrivañ restroù"
 
 #: extensions/edit_metadata/gth-tag-task.c:139
 msgid "Reading files"
-msgstr ""
+msgstr "O lenn restroù"
 
 #: extensions/exiv2_tools/main.c:33
 msgid "Exif General"
-msgstr "Exif allgemeen"
+msgstr ""
 
 #: extensions/exiv2_tools/main.c:34
 msgid "Exif Conditions"
@@ -3679,11 +3678,11 @@ msgstr ""
 
 #: extensions/exiv2_tools/main.c:40
 msgid "Exif Other"
-msgstr "Exif annere"
+msgstr ""
 
 #: extensions/exiv2_tools/main.c:41
 msgid "IPTC"
-msgstr ""
+msgstr "IPTC"
 
 #: extensions/exiv2_tools/main.c:42
 msgid "XMP Embedded"
@@ -3699,11 +3698,11 @@ msgstr ""
 
 #: extensions/export_tools/callbacks.c:46
 msgid "_Export To"
-msgstr ""
+msgstr "_Ezporzhiañ da"
 
 #: extensions/file_manager/actions.c:137
 msgid "New folder"
-msgstr ""
+msgstr "Teuliad nevez"
 
 #: extensions/file_manager/actions.c:138
 msgid "Enter the folder name:"
@@ -3712,7 +3711,7 @@ msgstr ""
 #: extensions/file_manager/actions.c:423
 #: extensions/file_manager/callbacks.c:280
 msgid "Could not move the files"
-msgstr ""
+msgstr "N'haller ket dilec'hiañ ar restroù"
 
 #: extensions/file_manager/actions.c:424
 #: extensions/file_manager/callbacks.c:281
@@ -3727,12 +3726,12 @@ msgstr ""
 
 #: extensions/file_manager/actions.c:739
 msgid "Copy To"
-msgstr ""
+msgstr "Eilañ da"
 
 #: extensions/file_manager/actions.c:743
 #: extensions/file_manager/callbacks.c:1030
 msgid "Move"
-msgstr ""
+msgstr "Dilec'hiañ"
 
 #: extensions/file_manager/actions.c:870
 msgid "Could not open the location"
@@ -3742,45 +3741,45 @@ msgstr ""
 #: extensions/file_manager/callbacks.c:102
 #: extensions/file_manager/callbacks.c:123
 msgid "Cut"
-msgstr ""
+msgstr "Troc'hañ"
 
 #: extensions/file_manager/callbacks.c:75
 #: extensions/file_manager/callbacks.c:125
 msgid "Paste"
-msgstr ""
+msgstr "Pegañ"
 
 #: extensions/file_manager/callbacks.c:80
 #: extensions/file_manager/callbacks.c:110
 msgid "Copy to…"
-msgstr ""
+msgstr "Eilañ da..."
 
 #: extensions/file_manager/callbacks.c:81
 #: extensions/file_manager/callbacks.c:111
 msgid "Move to…"
-msgstr ""
+msgstr "Dilec'hiañ da..."
 
 #: extensions/file_manager/callbacks.c:87
 #: extensions/file_manager/callbacks.c:112
 msgid "Move to Trash"
-msgstr ""
+msgstr "Kas d'al lastez"
 
 #: extensions/file_manager/callbacks.c:88
 #: extensions/file_manager/callbacks.c:113
 #: extensions/file_manager/callbacks.c:128
 msgid "Delete"
-msgstr ""
+msgstr "Dilemel"
 
 #: extensions/file_manager/callbacks.c:92
 msgid "Open with the File Manager"
-msgstr ""
+msgstr "Digeriñ gant an ardoer restroù"
 
 #: extensions/file_manager/callbacks.c:97
 msgid "Create Folder"
-msgstr ""
+msgstr "Krouiñ un teuliad"
 
 #: extensions/file_manager/callbacks.c:104
 msgid "Paste Into Folder"
-msgstr ""
+msgstr "Pegañ en teuliad"
 
 #: extensions/file_manager/callbacks.c:118
 #: extensions/file_manager/callbacks.c:127
@@ -3793,22 +3792,22 @@ msgstr ""
 
 #: extensions/file_manager/callbacks.c:130
 msgid "Open with Gimp"
-msgstr ""
+msgstr "Digeriñ gant Gimp"
 
 #: extensions/file_manager/callbacks.c:742
 #: extensions/file_manager/callbacks.c:745
 msgid "Open _With"
-msgstr "Opmaken _mit"
+msgstr "Digeriñ _gant"
 
 #: extensions/file_manager/callbacks.c:1011
 #, c-format
 msgid "Do you want to move “%s” to “%s”?"
-msgstr ""
+msgstr "Ha fellout a ra deoc'h dilec'hiañ \"%s\" da \"%s\"?"
 
 #: extensions/file_manager/callbacks.c:1013
 #, c-format
 msgid "Do you want to copy “%s” to “%s”?"
-msgstr ""
+msgstr "Ha fellout a ra deoc'h eilañ \"%s\" da \"%s\"?"
 
 #: extensions/file_manager/callbacks.c:1020
 #, c-format
@@ -3822,7 +3821,7 @@ msgstr ""
 
 #: extensions/file_manager/callbacks.c:1030
 msgid "_Copy"
-msgstr ""
+msgstr "_Eilañ"
 
 #: extensions/file_tools/callbacks.c:53
 msgid "Adjust contrast"
@@ -3836,7 +3835,7 @@ msgstr ""
 #: extensions/file_tools/callbacks.c:55
 #: extensions/file_tools/gth-file-tool-mirror.c:90
 msgid "Mirror"
-msgstr "Speegel"
+msgstr "Melezour"
 
 #: extensions/file_tools/callbacks.c:56
 #: extensions/image_rotation/callbacks.c:47
@@ -3856,12 +3855,12 @@ msgstr ""
 #: extensions/file_tools/callbacks.c:59
 #: extensions/file_tools/gth-file-tool-resize.c:840
 msgid "Resize"
-msgstr "Gröte ännern"
+msgstr "Adventañ"
 
 #: extensions/file_tools/gth-curve-editor.c:417
 #, c-format
 msgid "%d → %d"
-msgstr ""
+msgstr "%d → %d"
 
 #: extensions/file_tools/gth-curve-preset-editor-dialog.c:267
 #: extensions/file_tools/gth-file-tool-curves.c:686
@@ -3950,13 +3949,13 @@ msgstr ""
 #: extensions/file_tools/gth-file-tool-resize.c:590
 #, c-format
 msgid "%d × %d (Image)"
-msgstr ""
+msgstr "%d × %d (Skeudenn)"
 
 #: extensions/file_tools/gth-file-tool-crop.c:443
 #: extensions/file_tools/gth-file-tool-resize.c:594
 #, c-format
 msgid "%d × %d (Screen)"
-msgstr ""
+msgstr "%d × %d (Skramm)"
 
 #: extensions/file_tools/gth-file-tool-crop.c:470
 #: extensions/file_tools/gth-file-tool-rotate.c:397
@@ -3999,11 +3998,11 @@ msgstr ""
 
 #: extensions/file_tools/gth-file-tool-effects.c:403
 msgid "Warmer"
-msgstr ""
+msgstr "Tommoc'h"
 
 #: extensions/file_tools/gth-file-tool-effects.c:447
 msgid "Cooler"
-msgstr ""
+msgstr "Yenoc'h"
 
 #: extensions/file_tools/gth-file-tool-effects.c:495
 msgid "Soil"
@@ -4071,11 +4070,11 @@ msgstr ""
 
 #: extensions/file_tools/gth-file-tool-negative.c:101
 msgid "Negative"
-msgstr "Negativ"
+msgstr "Negativel"
 
 #: extensions/file_tools/gth-file-tool-redo.c:77
 msgid "Redo"
-msgstr "Wedderholen"
+msgstr "Adober"
 
 #: extensions/file_tools/gth-file-tool-rotate.c:682
 msgid "Rotate"
@@ -4085,7 +4084,7 @@ msgstr ""
 #: extensions/image_rotation/callbacks.c:53
 #: extensions/image_rotation/callbacks.c:163
 msgid "Rotate Left"
-msgstr "Nah links dreihn"
+msgstr ""
 
 #: extensions/file_tools/gth-file-tool-rotate-left.c:91
 msgid "Rotate the image by 90 degrees counterclockwise"
@@ -4095,7 +4094,7 @@ msgstr ""
 #: extensions/image_rotation/callbacks.c:54
 #: extensions/image_rotation/callbacks.c:171
 msgid "Rotate Right"
-msgstr "Nah rechts dreihn"
+msgstr ""
 
 #: extensions/file_tools/gth-file-tool-rotate-right.c:91
 msgid "Rotate the image by 90 degrees clockwise"
@@ -4111,7 +4110,7 @@ msgstr ""
 
 #: extensions/file_tools/gth-file-tool-undo.c:77
 msgid "Undo"
-msgstr "Torüggnehmen"
+msgstr "Dizober"
 
 #: extensions/find_duplicates/callbacks.c:37
 msgid "Find _Duplicates…"
@@ -4120,7 +4119,7 @@ msgstr ""
 #: extensions/find_duplicates/dlg-find-duplicates.c:106
 #: extensions/search/actions.c:80
 msgid "_Find"
-msgstr ""
+msgstr "_Klask"
 
 #: extensions/find_duplicates/gth-find-duplicates.c:65
 msgid "leave the newest duplicates"
@@ -4132,15 +4131,15 @@ msgstr ""
 
 #: extensions/find_duplicates/gth-find-duplicates.c:67
 msgid "by folder…"
-msgstr ""
+msgstr "dre deuliad..."
 
 #: extensions/find_duplicates/gth-find-duplicates.c:68
 msgid "all files"
-msgstr ""
+msgstr "an holl restroù"
 
 #: extensions/find_duplicates/gth-find-duplicates.c:69
 msgid "no file"
-msgstr ""
+msgstr "restr ebet"
 
 #: extensions/find_duplicates/gth-find-duplicates.c:557
 msgid "Search completed"
@@ -4160,7 +4159,7 @@ msgstr ""
 
 #: extensions/find_duplicates/gth-find-duplicates.c:1373
 msgid "Select"
-msgstr ""
+msgstr "Diuzañ"
 
 #: extensions/flicker_utils/dlg-export-to-flickr.c:136
 #: extensions/flicker_utils/dlg-export-to-flickr.c:410
@@ -4176,30 +4175,30 @@ msgstr ""
 #: extensions/flicker_utils/dlg-export-to-flickr.c:164
 #: extensions/webalbums/gth-web-exporter.c:1819
 msgid "_Open in the Browser"
-msgstr ""
+msgstr "_Digeriñ er merdeer"
 
 #: extensions/flicker_utils/dlg-export-to-flickr.c:188
 #: extensions/flicker_utils/dlg-export-to-flickr.c:223
 msgid "Could not create the album"
-msgstr ""
+msgstr "N'haller ket krouiñ an albom"
 
 #: extensions/flicker_utils/dlg-export-to-flickr.c:246
 msgid "Could not upload the files"
-msgstr ""
+msgstr "N'haller ket pellgas ar restroù"
 
 #: extensions/flicker_utils/dlg-export-to-flickr.c:592
 #: extensions/image_print/gth-image-print-job.c:1813
 msgid "No valid file selected."
-msgstr ""
+msgstr "N'eus restr talvoudek ebet bet diuzet."
 
 #: extensions/flicker_utils/dlg-export-to-flickr.c:593
 msgid "Could not export the files"
-msgstr ""
+msgstr "N'haller ket ezporzhiañ ar restroù"
 
 #: extensions/flicker_utils/dlg-export-to-flickr.c:624
 #, c-format
 msgid "Export to %s"
-msgstr ""
+msgstr "Ezporzhiañ da %s"
 
 #: extensions/flicker_utils/dlg-import-from-flickr.c:337
 msgid "Could not get the photo list"
@@ -4208,17 +4207,17 @@ msgstr ""
 #: extensions/flicker_utils/dlg-import-from-flickr.c:374
 #: extensions/flicker_utils/dlg-import-from-flickr.c:553
 msgid "No album selected"
-msgstr "Keen Album utwählt"
+msgstr "Albom ebet bet diuzet"
 
 #: extensions/flicker_utils/dlg-import-from-flickr.c:513
 #: extensions/photo_importer/dlg-photo-importer.c:575
 msgid "_Import"
-msgstr "_Import"
+msgstr "_Enporzhiañ"
 
 #: extensions/flicker_utils/dlg-import-from-flickr.c:571
 #, c-format
 msgid "Import from %s"
-msgstr ""
+msgstr "Enporzhiañ diouzh %s"
 
 #: extensions/flicker_utils/flickr-consumer.c:122
 #: extensions/flicker_utils/flickr-service.c:240
@@ -4227,7 +4226,7 @@ msgstr ""
 #: extensions/flicker_utils/flickr-service.c:919
 #: extensions/oauth/oauth-service.c:154
 msgid "Unknown error"
-msgstr ""
+msgstr "Fazi dianav"
 
 #: extensions/flicker_utils/flickr-service.c:491
 #, c-format
@@ -4241,11 +4240,11 @@ msgstr ""
 
 #: extensions/flicker_utils/flickr-service.c:562
 msgid "C_ontinue"
-msgstr ""
+msgstr "K_enderc'hel"
 
 #: extensions/flicker_utils/flickr-service.c:563
 msgid "_Authorize…"
-msgstr ""
+msgstr "_Aotren..."
 
 #: extensions/flicker_utils/flickr-service.c:566
 #, c-format
@@ -4268,21 +4267,21 @@ msgstr ""
 #: extensions/flicker_utils/flickr-service.c:1058
 #: extensions/flicker_utils/flickr-service.c:1097
 msgid "Creating the new album"
-msgstr ""
+msgstr "O krouiñ an albom nevez"
 
 #: extensions/flicker_utils/flickr-service.c:1144
 #, c-format
 msgid "Could not upload “%s”: %s"
-msgstr ""
+msgstr "N'haller ket pellgas \"%s\": %s"
 
 #: extensions/flicker_utils/flickr-service.c:1253
 #, c-format
 msgid "Uploading “%s”"
-msgstr ""
+msgstr "O pellgas \"%s\""
 
 #: extensions/flicker_utils/flickr-service.c:1450
 msgid "Uploading the files to the server"
-msgstr ""
+msgstr "O pellgas ar restroù d'an dafariad"
 
 #: extensions/flicker_utils/flickr-service.c:1611
 msgid "Getting the photo list"
@@ -4291,7 +4290,7 @@ msgstr ""
 #: extensions/gstreamer_tools/actions.c:75
 #, c-format
 msgid "Image saved as %s"
-msgstr ""
+msgstr "Skeudenn bet enrollet evel %s"
 
 #: extensions/gstreamer_tools/actions.c:137
 #: extensions/gstreamer_tools/actions.c:148
@@ -4300,11 +4299,11 @@ msgstr ""
 
 #: extensions/gstreamer_tools/callbacks.c:32
 msgid "Screenshot"
-msgstr "Billschirmbill"
+msgstr ""
 
 #: extensions/gstreamer_tools/callbacks.c:33
 msgid "Play/Pause"
-msgstr ""
+msgstr "Lenn/Ehan"
 
 #: extensions/gstreamer_tools/callbacks.c:34
 msgid "Mute"
@@ -4312,11 +4311,11 @@ msgstr ""
 
 #: extensions/gstreamer_tools/callbacks.c:35
 msgid "Play faster"
-msgstr ""
+msgstr "Lenn buanoc'h"
 
 #: extensions/gstreamer_tools/callbacks.c:36
 msgid "Play slower"
-msgstr ""
+msgstr "Lenn gorrekoc'h"
 
 #: extensions/gstreamer_tools/callbacks.c:37
 #: extensions/image_viewer/gth-image-viewer-page.c:1189
@@ -4329,7 +4328,7 @@ msgstr ""
 
 #: extensions/gstreamer_tools/gth-media-viewer-page.c:608
 msgid "Pause"
-msgstr "Middag"
+msgstr "Ehanañ"
 
 #: extensions/gstreamer_tools/gth-media-viewer-page.c:1127
 msgid "Take a screenshot"
@@ -4341,7 +4340,7 @@ msgstr ""
 
 #: extensions/gstreamer_tools/main.c:47
 msgid "Artist"
-msgstr "Musiker"
+msgstr "Arzour"
 
 #: extensions/gstreamer_tools/main.c:49
 msgid "Bitrate"
@@ -4353,7 +4352,7 @@ msgstr ""
 
 #: extensions/gstreamer_tools/main.c:52 extensions/gstreamer_tools/main.c:57
 msgid "Codec"
-msgstr "Codec"
+msgstr "Bonez"
 
 #: extensions/gstreamer_tools/main.c:53
 msgid "Framerate"
@@ -4369,7 +4368,7 @@ msgstr ""
 
 #: extensions/gstreamer_utils/gstreamer-utils.c:369
 msgid "Stereo"
-msgstr "Stereo"
+msgstr ""
 
 #: extensions/gstreamer_utils/gstreamer-utils.c:369
 msgid "Mono"
@@ -4377,13 +4376,13 @@ msgstr ""
 
 #: extensions/image_print/actions.c:69
 msgid "Could not print the selected files"
-msgstr ""
+msgstr "N'haller ket moullañ ar restroù diuzet"
 
 #: extensions/image_print/callbacks.c:38 extensions/image_print/callbacks.c:53
 #: extensions/image_print/callbacks.c:59
 #: extensions/image_print/preferences.c:79
 msgid "Print"
-msgstr ""
+msgstr "Moullañ"
 
 #: extensions/image_print/gth-image-print-job.c:40
 msgid "Total number of files"
@@ -4392,32 +4391,32 @@ msgstr ""
 #: extensions/image_print/gth-image-print-job.c:41
 #: extensions/importer/gth-import-preferences-dialog.c:47
 msgid "Event description"
-msgstr ""
+msgstr "Deskrivadur an darvoud"
 
 #: extensions/image_print/gth-image-print-job.c:922
 #, c-format
 msgid "Page %d of %d"
-msgstr "Siet %d vun %d"
+msgstr "Pajenn %d diwar %d"
 
 #: extensions/image_print/gth-image-print-job.c:1754
 #: extensions/image_print/gth-image-print-job.c:1919
 #: extensions/image_print/gth-image-print-job.c:1962
 msgid "Could not print"
-msgstr ""
+msgstr "N'haller ket moullañ"
 
 #: extensions/image_print/gth-image-print-job.c:1820
 msgid "Images"
-msgstr "Billers"
+msgstr "Skeudennoù"
 
 #: extensions/image_print/gth-load-image-info-task.c:168
 #, c-format
 msgid "Loading “%s”"
-msgstr ""
+msgstr "O kargañ \"%s\""
 
 #: extensions/image_print/gth-load-image-info-task.c:170
 #: extensions/webalbums/gth-web-exporter.c:2707
 msgid "Loading images"
-msgstr "Lade Billers"
+msgstr "O kragañ skeudennoù"
 
 #: extensions/image_rotation/callbacks.c:59
 msgid "Rotate Physically"
@@ -4432,7 +4431,7 @@ msgstr ""
 #: extensions/webalbums/gth-web-exporter.c:2319
 #: extensions/webalbums/gth-web-exporter.c:2404
 msgid "Saving images"
-msgstr ""
+msgstr "Oc'h enrollañ ar skeudennoù"
 
 #: extensions/image_rotation/rotation-utils.c:105
 #, c-format
@@ -4463,11 +4462,11 @@ msgstr ""
 
 #: extensions/image_viewer/callbacks.c:32
 msgid "Zoom in"
-msgstr "Gröter maken"
+msgstr ""
 
 #: extensions/image_viewer/callbacks.c:33
 msgid "Zoom out"
-msgstr "Lütter maken"
+msgstr ""
 
 #: extensions/image_viewer/callbacks.c:34
 msgid "Zoom 100%"
@@ -4555,11 +4554,11 @@ msgstr ""
 
 #: extensions/image_viewer/gth-image-viewer-page.c:84
 msgid "Copy Image"
-msgstr ""
+msgstr "Eilañ ar skeudenn"
 
 #: extensions/image_viewer/gth-image-viewer-page.c:85
 msgid "Paste Image"
-msgstr ""
+msgstr "Pegañ ar skeudenn"
 
 #: extensions/image_viewer/gth-image-viewer-page.c:1174
 msgid "Apply the embedded color profile"
@@ -4571,11 +4570,11 @@ msgstr ""
 
 #: extensions/image_viewer/gth-image-viewer-page.c:1804
 msgid "Save Image"
-msgstr "Bill spiekern"
+msgstr "Enrollañ ar skeudenn"
 
 #: extensions/image_viewer/gth-image-viewer-page.c:2528
 msgid "Loading the original image"
-msgstr ""
+msgstr "O kargañ ar skeudenn orin"
 
 #: extensions/image_viewer/gth-metadata-provider-image.c:213
 msgid "JPEG XL container"
@@ -4583,11 +4582,11 @@ msgstr ""
 
 #: extensions/image_viewer/gth-metadata-provider-image.c:215
 msgid "JPEG XL"
-msgstr ""
+msgstr "JPEG XL"
 
 #: extensions/image_viewer/main.c:35
 msgid "Image Viewer"
-msgstr "Billopwieser"
+msgstr ""
 
 #: extensions/image_viewer/main.c:36
 msgid "Scroll Image"
@@ -4595,7 +4594,7 @@ msgstr ""
 
 #: extensions/image_viewer/main.c:37
 msgid "Image Editor"
-msgstr ""
+msgstr "Embanner skeudennoù"
 
 #: extensions/importer/gth-import-destination-button.c:113
 msgid "Invalid Destination"
@@ -4603,17 +4602,17 @@ msgstr ""
 
 #: extensions/importer/gth-import-preferences-dialog.c:45
 msgid "File date"
-msgstr "Dateidag"
+msgstr "Deiziad ar restr"
 
 #: extensions/importer/gth-import-task.c:425
 #: extensions/importer/gth-import-task.c:460
 #: extensions/importer/gth-import-task.c:669
 msgid "Importing files"
-msgstr ""
+msgstr "Oc'h enporzhiañ restroù"
 
 #: extensions/importer/gth-import-task.c:618
 msgid "No file imported"
-msgstr ""
+msgstr "Restr ebet bet enporzhiet"
 
 #: extensions/importer/gth-import-task.c:619
 msgid "The selected files are already present in the destination."
@@ -4625,7 +4624,7 @@ msgstr ""
 
 #: extensions/importer/gth-import-task.c:730
 msgid "Last imported"
-msgstr "Tolest importert"
+msgstr ""
 
 #: extensions/importer/gth-import-task.c:825
 msgid "No file specified."
@@ -4641,7 +4640,7 @@ msgstr ""
 #: extensions/list_tools/callbacks.c:148 extensions/list_tools/callbacks.c:157
 #: extensions/list_tools/main.c:31
 msgid "Tools"
-msgstr "Warktüüg"
+msgstr "Ostilhoù"
 
 #: extensions/list_tools/dlg-personalize-scripts.c:250
 msgid "Script"
@@ -4649,24 +4648,24 @@ msgstr "Skript"
 
 #: extensions/list_tools/dlg-personalize-scripts.c:368
 msgid "Could not save the script"
-msgstr ""
+msgstr "N'haller ket enrollañ ar skript"
 
 #: extensions/list_tools/dlg-personalize-scripts.c:449
 msgid "New Command"
-msgstr "Neje Order"
+msgstr "Urzhiad nevez"
 
 #: extensions/list_tools/dlg-personalize-scripts.c:476
 #: extensions/list_tools/gth-script-editor-dialog.c:128
 msgid "Edit Command"
-msgstr "Order bewarken"
+msgstr "Aozañ an urzhiad"
 
 #: extensions/list_tools/dlg-personalize-scripts.c:506
 msgid "Are you sure you want to delete the selected command?"
-msgstr ""
+msgstr "Ha sur oc'h e fell deoc'h dilemel an urzhiad diuzet?"
 
 #: extensions/list_tools/dlg-personalize-scripts.c:606
 msgid "Commands"
-msgstr "Order"
+msgstr "Urzhioù"
 
 #: extensions/list_tools/gth-script.c:522
 msgid "Enter a value:"
@@ -4674,7 +4673,7 @@ msgstr ""
 
 #: extensions/list_tools/gth-script.c:984
 msgid "_Skip"
-msgstr "_Överhüppen"
+msgstr ""
 
 #: extensions/list_tools/gth-script-editor-dialog.c:34
 msgid "Quoted text"
@@ -4682,15 +4681,15 @@ msgstr ""
 
 #: extensions/list_tools/gth-script-editor-dialog.c:35
 msgid "File URI"
-msgstr ""
+msgstr "URI ar restr"
 
 #: extensions/list_tools/gth-script-editor-dialog.c:36
 msgid "File path"
-msgstr ""
+msgstr "Hent ar restr"
 
 #: extensions/list_tools/gth-script-editor-dialog.c:37
 msgid "File name"
-msgstr ""
+msgstr "Anv ar restr"
 
 #: extensions/list_tools/gth-script-editor-dialog.c:38
 msgid "File name, no extension"
@@ -4698,11 +4697,11 @@ msgstr ""
 
 #: extensions/list_tools/gth-script-editor-dialog.c:39
 msgid "File extension"
-msgstr ""
+msgstr "Askouezhadenn ar restr"
 
 #: extensions/list_tools/gth-script-editor-dialog.c:40
 msgid "Folder path"
-msgstr ""
+msgstr "Hent an teuliad"
 
 #: extensions/list_tools/gth-script-editor-dialog.c:42
 msgid "Ask a value"
@@ -4711,7 +4710,7 @@ msgstr ""
 #: extensions/list_tools/gth-script-editor-dialog.c:43
 #: extensions/rename_series/dlg-rename-series.c:59
 msgid "File attribute"
-msgstr ""
+msgstr "Doareenn ar restr"
 
 #: extensions/list_tools/gth-script-editor-dialog.c:301
 msgid "No command specified"
@@ -4732,19 +4731,19 @@ msgstr ""
 
 #: extensions/oauth/web-service.c:379
 msgid "Choose _Account…"
-msgstr ""
+msgstr "Dibab ur _gont..."
 
 #: extensions/oauth/web-service.c:657
 msgid "Choose Account"
-msgstr "Togang wählen"
+msgstr "Dibab ar gont"
 
 #: extensions/oauth/web-service.c:774
 msgid "Edit Accounts"
-msgstr "Togang bewarken"
+msgstr "Aozañ ar gontoù"
 
 #: extensions/oauth/web-service.c:792 extensions/oauth/web-service.c:809
 msgid "Connecting to the server"
-msgstr ""
+msgstr "O kennaskañ ouzh an dafariad"
 
 #: extensions/oauth/web-service.c:793
 msgid "Asking authorization"
@@ -4757,11 +4756,11 @@ msgstr ""
 #: extensions/photo_importer/actions.c:71
 #: extensions/photo_importer/dlg-photo-importer.c:619
 msgid "Choose a folder"
-msgstr "Verteeknis wählen"
+msgstr "Dibab un teuliad"
 
 #: extensions/photo_importer/actions.c:75
 msgid "Import"
-msgstr ""
+msgstr "Enporzhiañ"
 
 #: extensions/photo_importer/callbacks.c:41
 msgid "_Removable Device…"
@@ -4769,24 +4768,24 @@ msgstr ""
 
 #: extensions/photo_importer/callbacks.c:42
 msgid "F_older…"
-msgstr ""
+msgstr "T_euliad..."
 
 #: extensions/photo_importer/callbacks.c:63
 msgid "I_mport From"
-msgstr ""
+msgstr "E_nporzhiañ diouzh"
 
 #: extensions/photo_importer/dlg-photo-importer.c:218
 msgid "Could not import the files"
-msgstr ""
+msgstr "N'haller ket enporzhiañ ar restroù"
 
 #: extensions/photo_importer/dlg-photo-importer.c:282
 #, c-format
 msgid "Files to import: %d (%s)"
-msgstr ""
+msgstr "Restroù da enporzhiañ: %d (%s)"
 
 #: extensions/photo_importer/dlg-photo-importer.c:322
 msgid "Could not load the folder"
-msgstr "Künn dat Verteeknis nich laden"
+msgstr "N'haller ket kargañ an teuliad"
 
 #: extensions/photo_importer/dlg-photo-importer.c:352
 msgid "Getting the folder content…"
@@ -4798,11 +4797,11 @@ msgstr ""
 
 #: extensions/photo_importer/dlg-photo-importer.c:617
 msgid "Import from Folder"
-msgstr ""
+msgstr "Enporzhiañ diouzh an teuliad"
 
 #: extensions/raw_files/gth-metadata-provider-raw.c:91
 msgid "RAW Format"
-msgstr ""
+msgstr "Furmad RAW"
 
 #: extensions/red_eye_removal/gth-file-tool-red-eye.c:471
 msgid "Red Eye Removal"
@@ -4815,11 +4814,11 @@ msgstr ""
 #: extensions/rename_series/dlg-rename-series.c:54
 #: extensions/webalbums/dlg-web-exporter.c:45
 msgid "Original filename"
-msgstr ""
+msgstr "Anv orin ar restr"
 
 #: extensions/rename_series/dlg-rename-series.c:55
 msgid "Original extension"
-msgstr ""
+msgstr "Askouezhadenn orin"
 
 #: extensions/rename_series/dlg-rename-series.c:56
 msgid "Original enumerator"
@@ -4836,15 +4835,15 @@ msgstr ""
 #: extensions/rename_series/dlg-rename-series.c:509
 #: extensions/rename_series/dlg-rename-series.c:636
 msgid "Could not rename the files"
-msgstr ""
+msgstr "N'haller ket adenvel ar restroù"
 
 #: extensions/rename_series/dlg-rename-series.c:798
 msgid "Old Name"
-msgstr "Oller Naam"
+msgstr "Anv kozh"
 
 #: extensions/rename_series/dlg-rename-series.c:809
 msgid "New Name"
-msgstr "Nejer Naam"
+msgstr "Anv nevez"
 
 #: extensions/rename_series/dlg-rename-series.c:887
 msgid "Keep original case"
@@ -4860,7 +4859,7 @@ msgstr ""
 
 #: extensions/rename_series/gth-rename-task.c:170
 msgid "Renaming files"
-msgstr ""
+msgstr "Oc'h adenvel ar restroù"
 
 #: extensions/resize_images/callbacks.c:38
 msgid "Resize Images…"
@@ -4868,11 +4867,11 @@ msgstr ""
 
 #: extensions/resize_images/dlg-resize-images.c:341
 msgid "Resize Images"
-msgstr "Billgröten ännern"
+msgstr ""
 
 #: extensions/resize_images/dlg-resize-images.c:427
 msgid "Keep the original format"
-msgstr ""
+msgstr "Mirout ar furmad orin"
 
 #: extensions/search/actions.c:50 extensions/search/actions.c:122
 #: extensions/search/actions.c:128
@@ -4881,37 +4880,37 @@ msgstr ""
 
 #: extensions/search/actions.c:55
 msgid "Search Result"
-msgstr "Sökrutkamen"
+msgstr ""
 
 #: extensions/search/actions.c:78
 msgid "Find"
-msgstr "Finnen"
+msgstr "Klask"
 
 #: extensions/search/callbacks.c:44 extensions/search/callbacks.c:79
 msgid "Find files"
-msgstr "Dateien finnen"
+msgstr "Klask restroù"
 
 #: extensions/search/callbacks.c:113
 msgid "Search again"
-msgstr "Nohmal söken"
+msgstr "Klask en-dro"
 
 #: extensions/search/gth-search-source-selector.c:130
 msgid "Add another location"
-msgstr ""
+msgstr "Ouzhpennañ ul lec'hiadur all"
 
 #: extensions/search/gth-search-task.c:113
 msgid "No file found"
-msgstr ""
+msgstr "Restr ebet bet kavet"
 
 #: extensions/search/gth-search-task.c:191
 #, c-format
 msgid "Files found so far: %s"
-msgstr ""
+msgstr "Restroù bet kavet evit poent: %s"
 
 #: extensions/search/gth-search-task.c:333
 #: extensions/search/gth-search-task.c:337
 msgid "Searching…"
-msgstr ""
+msgstr "O klask..."
 
 #: extensions/search/gth-search-task.c:344
 msgid "Cancel the operation"
@@ -4920,7 +4919,7 @@ msgstr ""
 #: extensions/selections/callbacks.c:57 extensions/selections/callbacks.c:58
 #: extensions/selections/callbacks.c:59 extensions/selections/callbacks.c:71
 msgid "Add to selection"
-msgstr ""
+msgstr "Ouzhpennañ d'an diuzad"
 
 #: extensions/selections/callbacks.c:61 extensions/selections/callbacks.c:62
 #: extensions/selections/callbacks.c:63 extensions/selections/callbacks.c:72
@@ -4930,7 +4929,7 @@ msgstr ""
 #: extensions/selections/callbacks.c:65 extensions/selections/callbacks.c:66
 #: extensions/selections/callbacks.c:67 extensions/selections/callbacks.c:73
 msgid "Show selection"
-msgstr ""
+msgstr "Diskouez an diuzad"
 
 #: extensions/selections/callbacks.c:83
 msgid "Remove from Selection"
@@ -4939,7 +4938,7 @@ msgstr ""
 #: extensions/selections/callbacks.c:128
 #, c-format
 msgid "Show selection %d"
-msgstr ""
+msgstr "Diskouez an diuzad %d"
 
 #: extensions/selections/callbacks.c:365
 #, c-format
@@ -4951,7 +4950,7 @@ msgstr ""
 #: extensions/selections/gth-selections-manager.c:228
 #, c-format
 msgid "Selection %d"
-msgstr ""
+msgstr "Diuzad %d"
 
 #: extensions/slideshow/callbacks.c:40
 msgid "Start presentation"
@@ -4983,11 +4982,11 @@ msgstr ""
 
 #: extensions/slideshow/gth-slideshow-preferences.c:194
 msgid "Audio files"
-msgstr ""
+msgstr "Restroù aodio"
 
 #: extensions/slideshow/gth-slideshow-preferences.c:260
 msgid "Random"
-msgstr "Dööreenanner"
+msgstr "Dre zegouezh"
 
 #: extensions/slideshow/main.c:303
 msgid "Push from right"
@@ -5023,11 +5022,11 @@ msgstr ""
 
 #: extensions/terminal/callbacks.c:40 extensions/terminal/callbacks.c:45
 msgid "Open in Terminal"
-msgstr ""
+msgstr "Digeriñ en dermenell"
 
 #: extensions/webalbums/callbacks.c:48
 msgid "_Web Album…"
-msgstr ""
+msgstr "Albom _web..."
 
 #: extensions/webalbums/dlg-web-exporter.c:43
 msgid "Current image number"
@@ -5039,7 +5038,7 @@ msgstr ""
 
 #: extensions/webalbums/dlg-web-exporter.c:531
 msgid "Web Album"
-msgstr ""
+msgstr "Albom web"
 
 #: extensions/webalbums/gth-web-exporter.c:563
 #: extensions/webalbums/gth-web-exporter.c:575

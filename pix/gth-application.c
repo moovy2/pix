@@ -143,16 +143,7 @@ migrate_data (void)
 static void
 gth_application_startup (GApplication *application)
 {
-	GSettings *settings;
-	gboolean use_dark_theme;
-	settings = g_settings_new (PIX_BROWSER_SCHEMA);
-	use_dark_theme = g_settings_get_boolean (settings, PREF_BROWSER_USE_DARK_THEME);
-	g_object_unref (settings);
-
 	G_APPLICATION_CLASS (gth_application_parent_class)->startup (application);
-
-	if (g_strcmp0 (g_getenv ("XDG_CURRENT_DESKTOP"), "XFCE") != 0)
-		g_object_set (gtk_settings_get_default (), "gtk-application-prefer-dark-theme", use_dark_theme, NULL);
 
 	gth_pref_initialize ();
 	migrate_data ();
@@ -398,7 +389,7 @@ gth_application_local_command_line (GApplication   *application,
 	}
 
 	if (version) {
-		g_printf ("%s %s, Copyright © 2001-2010 Free Software Foundation, Inc.\n", PACKAGE_NAME, PACKAGE_VERSION);
+		g_printf ("%s %s\n", PACKAGE_NAME, PACKAGE_VERSION);
 		handled_locally = TRUE;
 	}
 

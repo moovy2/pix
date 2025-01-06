@@ -1,23 +1,22 @@
-# Low German translation for pix.
-# Copyright (C) 2009 pix's COPYRIGHT HOLDER
-# This file is distributed under the same license as the pix package.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-# Nils-Christoph Fiedler <ncfiedler@gnome.org>, 2009, 2010.
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: pix pix-2-10\n"
-"Report-Msgid-Bugs-To: "
-"http://bugzilla.gnome.org/enter_bug.cgi?product=pix&component=general\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-12 10:17+0000\n"
-"PO-Revision-Date: 2023-06-06 13:00+0000\n"
-"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
-"Language-Team: Low German <nds-lowgerman@lists.sourceforge.net>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Launchpad-Export-Date: 2025-01-06 11:58+0000\n"
-"X-Generator: Launchpad (build 6394e03793719e8d73f5a60b5439440e693c92f1)\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 #: data/ui/browser-preferences.ui:20
 #: extensions/image_print/data/ui/print-layout.ui:651
@@ -46,7 +45,7 @@ msgstr ""
 #: extensions/exiv2_tools/gth-edit-iptc-page.c:199
 #: extensions/gstreamer_tools/main.c:41
 msgid "Other"
-msgstr "Annere"
+msgstr ""
 
 #: data/ui/browser-preferences.ui:187
 msgid "Thumbnail _size:"
@@ -69,7 +68,7 @@ msgstr ""
 #: extensions/image_print/data/ui/print-layout.ui:282
 #: extensions/comments/main.c:44 extensions/comments/main.c:170
 msgid "Description"
-msgstr "Beschrieven"
+msgstr ""
 
 #: data/ui/code-selector.ui:269
 msgid "Edit"
@@ -93,11 +92,11 @@ msgstr ""
 
 #: data/ui/file-selection-info.ui:23
 msgid "Previous"
-msgstr "Torügg"
+msgstr ""
 
 #: data/ui/file-selection-info.ui:61
 msgid "Next"
-msgstr "Vor"
+msgstr ""
 
 #: data/ui/filter-editor.ui:20
 msgid "Filter _Name:"
@@ -280,7 +279,7 @@ msgstr ""
 #: extensions/webalbums/data/ui/web-album-exporter.ui:470
 #: extensions/edit_metadata/gth-edit-general-page.c:482
 msgid "General"
-msgstr "Allgemeen"
+msgstr ""
 
 #: data/ui/shortcuts-preferences.ui:27
 msgid "Shortcuts:"
@@ -318,7 +317,7 @@ msgstr ""
 
 #: pix/resources/gears-menu.ui:17 extensions/file_tools/gth-file-tool-save.c:66
 msgid "Save"
-msgstr "Spiekern"
+msgstr ""
 
 #: pix/resources/gears-menu.ui:21
 #: extensions/file_tools/gth-file-tool-save-as.c:70
@@ -348,7 +347,7 @@ msgstr ""
 
 #: pix/resources/gears-menu.ui:53
 msgid "_Help"
-msgstr "_Hölp"
+msgstr ""
 
 #: pix/resources/gears-menu.ui:57
 msgid "_About Pix"
@@ -378,7 +377,7 @@ msgstr ""
 #: extensions/photo_importer/dlg-photo-importer-preferences.c:78
 #: extensions/terminal/dlg-terminal-preferences.c:83
 msgid "Preferences"
-msgstr "Instellens"
+msgstr ""
 
 #: pix/dlg-location.c:239 pix/gth-browser.c:1175 pix/gth-browser.c:6856
 #: pix/gth-browser.c:6875 pix/gth-browser.c:6899 pix/gth-vfs-tree.c:393
@@ -388,16 +387,16 @@ msgstr ""
 
 #: pix/dlg-location.c:450 pix/dlg-location.c:460
 msgid "Open"
-msgstr "Opmaken"
+msgstr ""
 
 #: pix/dlg-personalize-filters.c:237
 msgid "Filter"
-msgstr "Filter"
+msgstr ""
 
 #: pix/dlg-personalize-filters.c:252
 #: extensions/list_tools/dlg-personalize-scripts.c:278
 msgid "Show"
-msgstr "Opwiesen"
+msgstr ""
 
 #: pix/dlg-personalize-filters.c:315
 msgid "Could not save the filter"
@@ -405,20 +404,20 @@ msgstr ""
 
 #: pix/dlg-personalize-filters.c:358
 msgid "New Filter"
-msgstr "Nejer Filter"
+msgstr ""
 
 #: pix/dlg-personalize-filters.c:387
 msgid "Edit Filter"
-msgstr "Filter bewarken"
+msgstr ""
 
 #: pix/dlg-personalize-filters.c:519 pix/gth-main-default-types.c:43
 msgid "Filters"
-msgstr "Filter"
+msgstr ""
 
 #: pix/dlg-preferences-browser.c:188 pix/dlg-preferences-extensions.c:65
 #: pix/gth-shortcuts-window.c:39
 msgid "Browser"
-msgstr "Dateioppasser"
+msgstr ""
 
 #: pix/dlg-preferences-extensions.c:66
 msgid "Viewers"
@@ -427,7 +426,7 @@ msgstr ""
 #: pix/dlg-preferences-extensions.c:67 pix/gth-file-details.c:42
 #: pix/gth-main-default-metadata.c:33
 msgid "Metadata"
-msgstr "Metadaten"
+msgstr ""
 
 #: pix/dlg-preferences-extensions.c:68
 msgid "File tools"
@@ -473,7 +472,7 @@ msgstr ""
 #: extensions/burn_disc/gth-burn-task.c:405
 #: extensions/oauth/oauth-account-chooser-dialog.c:150
 msgid "_Continue"
-msgstr "_Wietermaken"
+msgstr ""
 
 #: pix/dlg-preferences-extensions.c:716
 msgid "_Restart"
@@ -494,7 +493,7 @@ msgstr ""
 
 #: pix/dlg-sort-order.c:113
 msgid "Sort By"
-msgstr "Grupperen nah"
+msgstr ""
 
 #: pix/gio-utils.c:1059
 #, c-format
@@ -513,11 +512,11 @@ msgstr ""
 
 #: pix/gio-utils.c:1561
 msgid "Moving files"
-msgstr "Verschuve Dateien"
+msgstr ""
 
 #: pix/gio-utils.c:1561
 msgid "Copying files"
-msgstr "Kopere Dateien"
+msgstr ""
 
 #: pix/gio-utils.c:1562 pix/gio-utils.c:1793 pix/gio-utils.c:1923
 msgid "Getting file information"
@@ -525,7 +524,7 @@ msgstr ""
 
 #: pix/gio-utils.c:1728
 msgid "Deleting files"
-msgstr "Lösche Dateien"
+msgstr ""
 
 #: pix/gio-utils.c:1869
 msgid "Moving files to trash"
@@ -543,7 +542,7 @@ msgstr ""
 #: extensions/file_tools/gth-file-tool-rotate.c:396
 #: extensions/slideshow/main.c:297
 msgid "None"
-msgstr "Keen"
+msgstr ""
 
 #: pix/gth-accel-dialog.c:121
 msgid "Press a combination of keys to use as shortcut."
@@ -580,7 +579,7 @@ msgstr ""
 #: pix/gth-application.c:105 pix/gth-browser.c:428
 #: pix/gth-progress-dialog.c:413
 msgid "Pix"
-msgstr "Pix"
+msgstr ""
 
 #: pix/gth-application.c:168
 msgid "— Image browser and viewer"
@@ -615,12 +614,10 @@ msgstr ""
 #: pix/gth-browser-actions-callbacks.c:130
 msgid "translator-credits"
 msgstr ""
-"Launchpad Contributions:\n"
-"  Nils-Christoph Fiedler https://launchpad.net/~fiedler-medienkompanie"
 
 #: pix/gth-browser.c:413
 msgid "[modified]"
-msgstr "[ännert]"
+msgstr ""
 
 #: pix/gth-browser.c:913
 #, c-format
@@ -649,7 +646,7 @@ msgstr ""
 
 #: pix/gth-browser.c:2034
 msgid "Do _Not Save"
-msgstr "_Nich spiekern"
+msgstr ""
 
 #: pix/gth-browser.c:2524 pix/gth-browser.c:4817
 msgid "Accept"
@@ -665,7 +662,7 @@ msgstr ""
 
 #: pix/gth-browser.c:3557
 msgid "Modified"
-msgstr "Ännert"
+msgstr ""
 
 #: pix/gth-browser.c:4739
 msgid "Go to the previous visited location"
@@ -681,17 +678,17 @@ msgstr ""
 
 #: pix/gth-browser.c:4767
 msgid "View the folders"
-msgstr "Verteeknisse opwiesen"
+msgstr ""
 
 #: pix/gth-browser.c:4776 pix/gth-browser.c:4888 pix/gth-file-properties.c:274
 #: extensions/catalogs/callbacks.c:78
 #: extensions/catalogs/dlg-catalog-properties.c:205
 msgid "Properties"
-msgstr "Eegenschapten"
+msgstr ""
 
 #: pix/gth-browser.c:4782
 msgid "Edit file"
-msgstr "datei bewarken"
+msgstr ""
 
 #: pix/gth-browser.c:4873 pix/gth-progress-dialog.c:310
 #: pix/gth-progress-dialog.c:455
@@ -731,7 +728,7 @@ msgstr ""
 
 #: pix/gth-file-chooser-dialog.c:145
 msgid "All Supported Files"
-msgstr "All unnerstütte Dateien"
+msgstr ""
 
 #: pix/gth-file-chooser-dialog.c:195
 msgid "_Show Format Options"
@@ -745,7 +742,7 @@ msgstr ""
 #: extensions/file_tools/gth-file-tool-resize.c:759
 #: extensions/file_tools/gth-file-tool-rotate.c:617
 msgid "Options"
-msgstr "Optschoonen"
+msgstr ""
 
 #: pix/gth-file-comment.c:136 extensions/comments/main.c:37
 #: extensions/edit_metadata/callbacks.c:56
@@ -755,7 +752,7 @@ msgstr "Optschoonen"
 #: extensions/webalbums/dlg-web-exporter.c:46
 #: extensions/webalbums/dlg-web-exporter.c:296
 msgid "Comment"
-msgstr "Kommentar"
+msgstr ""
 
 #: pix/gth-file-list.c:41 pix/gth-folder-tree.c:1187
 msgid "No file"
@@ -772,7 +769,7 @@ msgstr ""
 
 #: pix/gth-file-source-vfs.c:305 extensions/file_manager/callbacks.c:735
 msgid "Home Folder"
-msgstr "Hemverteeknis"
+msgstr ""
 
 #: pix/gth-file-source-vfs.c:786 extensions/importer/gth-import-task.c:642
 msgid "Could not delete the files"
@@ -808,11 +805,11 @@ msgstr ""
 #: pix/gth-filterbar.c:391
 #: extensions/photo_importer/data/ui/photo-importer.ui:54
 msgid "S_how:"
-msgstr "_Opwiesen:"
+msgstr ""
 
 #: pix/gth-filterbar.c:526
 msgid "All"
-msgstr "All"
+msgstr ""
 
 #: pix/gth-filterbar.c:556 pix/gth-test-aspect-ratio.c:193
 #: extensions/list_tools/data/ui/tools-menu.ui:15
@@ -822,21 +819,21 @@ msgstr ""
 #: pix/gth-filter.c:43 pix/gth-filter-editor-dialog.c:180
 #: pix/gth-test-simple.c:78
 msgid "kB"
-msgstr "kB"
+msgstr ""
 
 #: pix/gth-filter.c:44 pix/gth-filter-editor-dialog.c:181
 #: pix/gth-test-simple.c:79
 msgid "MB"
-msgstr "MB"
+msgstr ""
 
 #: pix/gth-filter.c:45 pix/gth-filter-editor-dialog.c:182
 #: pix/gth-test-simple.c:80
 msgid "GB"
-msgstr "GB"
+msgstr ""
 
 #: pix/gth-filter.c:287 pix/gth-filter-editor-dialog.c:179
 msgid "files"
-msgstr "Dateien"
+msgstr ""
 
 #: pix/gth-filter-editor-dialog.c:167 extensions/search/gth-search-editor.c:117
 msgid "all the following rules"
@@ -862,7 +859,7 @@ msgstr ""
 #: extensions/file_tools/gth-file-tool-curves.c:373
 #: extensions/list_tools/gth-script-editor-dialog.c:295
 msgid "No name specified"
-msgstr "Keen Naam ingeven"
+msgstr ""
 
 #: pix/gth-filter-editor-dialog.c:521
 msgid "No limit specified"
@@ -871,7 +868,7 @@ msgstr ""
 #: pix/gth-filter-grid.c:573 extensions/file_tools/gth-file-tool-resize.c:185
 #: extensions/resize_images/dlg-resize-images.c:169
 msgid "Resizing images"
-msgstr "Ännere Billgröte"
+msgstr ""
 
 #: pix/gth-folder-tree.c:1467
 msgid "(Open Parent)"
@@ -893,7 +890,7 @@ msgstr ""
 #: extensions/file_manager/callbacks.c:126
 #: extensions/rename_series/dlg-rename-series.c:771
 msgid "Rename"
-msgstr "Annern Naam geven"
+msgstr ""
 
 #: pix/gth-folder-tree.c:1974
 msgid "Enter the new name:"
@@ -901,7 +898,7 @@ msgstr ""
 
 #: pix/gth-folder-tree.c:1976 extensions/rename_series/dlg-rename-series.c:781
 msgid "_Rename"
-msgstr "_Annern Naam geven"
+msgstr ""
 
 #: pix/gth-histogram-view.c:838 extensions/file_tools/gth-curve-editor.c:894
 msgid "Linear scale"
@@ -917,7 +914,7 @@ msgstr ""
 
 #: pix/gth-histogram-view.c:891 extensions/file_tools/gth-curve-editor.c:948
 msgid "Value"
-msgstr "Wert"
+msgstr ""
 
 #: pix/gth-histogram-view.c:896 extensions/file_tools/gth-curve-editor.c:953
 msgid "Red"
@@ -925,15 +922,15 @@ msgstr ""
 
 #: pix/gth-histogram-view.c:901 extensions/file_tools/gth-curve-editor.c:958
 msgid "Green"
-msgstr "Greun"
+msgstr ""
 
 #: pix/gth-histogram-view.c:906 extensions/file_tools/gth-curve-editor.c:963
 msgid "Blue"
-msgstr "Blau"
+msgstr ""
 
 #: pix/gth-histogram-view.c:911
 msgid "Alpha"
-msgstr "Alpha"
+msgstr ""
 
 #: pix/gth-histogram-view.c:917
 msgid "RGB"
@@ -981,15 +978,15 @@ msgstr ""
 #: pix/gth-main-default-metadata.c:32
 #: extensions/find_duplicates/data/ui/find-duplicates-dialog.ui:366
 msgid "File"
-msgstr "Datei"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:39
 msgid "Name"
-msgstr "Naam"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:40 pix/gth-main-default-tests.c:351
 msgid "Size"
-msgstr "Gröte"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:41
 msgid "Bytes"
@@ -1001,21 +998,21 @@ msgstr ""
 
 #: pix/gth-main-default-metadata.c:44
 msgid "Type"
-msgstr "Typ"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:47 pix/gth-toolbox.c:148
 #: extensions/resize_images/data/ui/resize-images.ui:324
 msgid "Format"
-msgstr "Format"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:48
 #: extensions/file_tools/data/ui/resize-options.ui:137
 msgid "Dimensions"
-msgstr "Dimenschoonen"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:49
 msgid "Duration"
-msgstr "Düer"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:51
 msgid "Exposure Settings"
@@ -1059,12 +1056,12 @@ msgstr ""
 
 #: pix/gth-main-default-metadata.c:62 extensions/comments/main.c:43
 msgid "Title"
-msgstr "Titel"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:63 extensions/comments/main.c:45
 #: extensions/comments/main.c:178
 msgid "Place"
-msgstr "Ort"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:65 extensions/catalogs/gth-catalog.c:1019
 #: extensions/comments/main.c:47 extensions/edit_metadata/callbacks.c:57
@@ -1072,7 +1069,7 @@ msgstr "Ort"
 #: extensions/edit_metadata/callbacks.c:107
 #: extensions/edit_metadata/gth-edit-tags-dialog.c:170
 msgid "Tags"
-msgstr "Slötelwöör"
+msgstr ""
 
 #: pix/gth-main-default-metadata.c:66 pix/gth-main-default-tests.c:391
 #: extensions/comments/main.c:48
@@ -1089,7 +1086,7 @@ msgstr ""
 
 #: pix/gth-main-default-sort-types.c:166
 msgid "file name"
-msgstr "Dateinaam"
+msgstr ""
 
 #: pix/gth-main-default-sort-types.c:167
 msgid "file path"
@@ -1097,7 +1094,7 @@ msgstr ""
 
 #: pix/gth-main-default-sort-types.c:168
 msgid "file size"
-msgstr "Dateigröte"
+msgstr ""
 
 #: pix/gth-main-default-sort-types.c:169
 msgid "file modified date"
@@ -1117,7 +1114,7 @@ msgstr ""
 
 #: pix/gth-main-default-tests.c:286
 msgid "All Files"
-msgstr "All Dateien"
+msgstr ""
 
 #: pix/gth-main-default-tests.c:293
 msgid "All Images"
@@ -1133,23 +1130,23 @@ msgstr ""
 
 #: pix/gth-main-default-tests.c:314 extensions/gstreamer_tools/main.c:39
 msgid "Video"
-msgstr "Film"
+msgstr ""
 
 #: pix/gth-main-default-tests.c:321 extensions/gstreamer_tools/main.c:40
 msgid "Audio"
-msgstr "Ton"
+msgstr ""
 
 #: pix/gth-main-default-tests.c:328
 msgid "Media"
-msgstr "Medien"
+msgstr ""
 
 #: pix/gth-main-default-tests.c:335
 msgid "Text Files"
-msgstr "Textdateien"
+msgstr ""
 
 #: pix/gth-main-default-tests.c:343
 msgid "Filename"
-msgstr "Dateinaam"
+msgstr ""
 
 #: pix/gth-main-default-tests.c:359
 #: extensions/catalogs/dlg-organize-files.c:145
@@ -1196,7 +1193,7 @@ msgstr ""
 #: pix/gth-main-default-types.c:42 pix/gth-shortcuts-window.c:40
 #: extensions/image_viewer/preferences.c:158
 msgid "Viewer"
-msgstr "Opwieser"
+msgstr ""
 
 #: pix/gth-overwrite-dialog.c:184
 #: extensions/edit_metadata/dlg-edit-metadata.c:234
@@ -1246,11 +1243,11 @@ msgstr ""
 #: pix/gth-tags-entry.c:1148
 #: extensions/find_duplicates/data/ui/find-duplicates-dialog.ui:454
 msgid "_Delete"
-msgstr "_Löschen"
+msgstr ""
 
 #: pix/gth-tags-file.c:235
 msgid "Holidays"
-msgstr "Ferien"
+msgstr ""
 
 #: pix/gth-tags-file.c:236
 msgid "Temporary"
@@ -1258,31 +1255,31 @@ msgstr ""
 
 #: pix/gth-tags-file.c:237
 msgid "Screenshots"
-msgstr "Billschirmbill"
+msgstr ""
 
 #: pix/gth-tags-file.c:238
 msgid "Science"
-msgstr "Wetenschapt"
+msgstr ""
 
 #: pix/gth-tags-file.c:239
 msgid "Favorite"
-msgstr "Leevste"
+msgstr ""
 
 #: pix/gth-tags-file.c:240
 msgid "Important"
-msgstr "Wichtig"
+msgstr ""
 
 #: pix/gth-tags-file.c:241
 msgid "Games"
-msgstr "Speelen"
+msgstr ""
 
 #: pix/gth-tags-file.c:242
 msgid "Party"
-msgstr "Fier"
+msgstr ""
 
 #: pix/gth-tags-file.c:243
 msgid "Birthday"
-msgstr "Burtsdag"
+msgstr ""
 
 #: pix/gth-tags-file.c:244
 msgid "Astronomy"
@@ -1290,7 +1287,7 @@ msgstr ""
 
 #: pix/gth-tags-file.c:245
 msgid "Family"
-msgstr "Familie"
+msgstr ""
 
 #: pix/gth-template-editor-dialog.c:419
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:519
@@ -1403,7 +1400,7 @@ msgstr ""
 
 #: pix/gth-test-aspect-ratio.c:69 pix/gth-test-simple.c:59
 msgid "is equal to"
-msgstr "is liekers to"
+msgstr ""
 
 #: pix/gth-test-aspect-ratio.c:70 pix/gth-test-simple.c:60
 msgid "is greater than or equal to"
@@ -1429,7 +1426,7 @@ msgstr ""
 
 #: pix/gth-test-category.c:46 pix/gth-test-simple.c:50 pix/gth-test-simple.c:67
 msgid "is"
-msgstr "is"
+msgstr ""
 
 #: pix/gth-test-category.c:47
 msgid "is only"
@@ -1437,7 +1434,7 @@ msgstr ""
 
 #: pix/gth-test-category.c:48 pix/gth-test-simple.c:51 pix/gth-test-simple.c:68
 msgid "is not"
-msgstr "is nich"
+msgstr ""
 
 #: pix/gth-test-category.c:49 pix/gth-test-simple.c:53
 msgid "matches"
@@ -1453,35 +1450,35 @@ msgstr ""
 
 #: pix/gth-test-simple.c:47
 msgid "contains"
-msgstr "hett in"
+msgstr ""
 
 #: pix/gth-test-simple.c:48
 msgid "starts with"
-msgstr "startet mit"
+msgstr ""
 
 #: pix/gth-test-simple.c:49
 msgid "ends with"
-msgstr "heurt op mit"
+msgstr ""
 
 #: pix/gth-test-simple.c:52
 msgid "does not contain"
-msgstr "hett nich in"
+msgstr ""
 
 #: pix/gth-test-simple.c:65
 msgid "is before"
-msgstr "is vor"
+msgstr ""
 
 #: pix/gth-test-simple.c:66
 msgid "is after"
-msgstr "is achter"
+msgstr ""
 
 #: pix/gth-time-selector.c:542
 msgid "Today"
-msgstr "Vandag"
+msgstr ""
 
 #: pix/gth-time-selector.c:550
 msgid "Now"
-msgstr "Nu"
+msgstr ""
 
 #: pix/gth-toolbox.c:146
 msgid "Colors"
@@ -1559,7 +1556,7 @@ msgstr ""
 #: extensions/bookmarks/callbacks.c:323
 #: extensions/bookmarks/dlg-bookmarks.c:350
 msgid "Bookmarks"
-msgstr "Lesetekens"
+msgstr ""
 
 #: extensions/bookmarks/bookmarks.extension.desktop.in.in:4
 msgid "Add bookmarks support."
@@ -1607,8 +1604,7 @@ msgid "Contact Sheet"
 msgstr ""
 
 #: extensions/contact_sheet/contact_sheet.extension.desktop.in.in:4
-msgid ""
-"Create an index image displaying the thumbnails of the selected files."
+msgid "Create an index image displaying the thumbnails of the selected files."
 msgstr ""
 
 #: extensions/convert_format/convert_format.extension.desktop.in.in:3
@@ -1753,7 +1749,7 @@ msgstr ""
 #: extensions/search/search.extension.desktop.in.in:3
 #: extensions/search/callbacks.c:197
 msgid "Search"
-msgstr "Sök"
+msgstr ""
 
 #: extensions/search/search.extension.desktop.in.in:4
 msgid "File search tool."
@@ -1941,7 +1937,7 @@ msgstr ""
 #: extensions/file_manager/actions.c:766
 #: extensions/webalbums/gth-web-exporter.c:1820
 msgid "_View the destination"
-msgstr "_Tääl opwiesen"
+msgstr ""
 
 #: extensions/catalogs/data/ui/catalog-properties.ui:68
 #: extensions/contact_sheet/data/ui/contact-sheet-theme-properties.ui:53
@@ -2207,7 +2203,7 @@ msgstr ""
 #: extensions/cairo_io/preferences.c:134
 #: extensions/image_viewer/gth-image-viewer-page.c:1703
 msgid "Saving"
-msgstr "Spiekern"
+msgstr ""
 
 #: extensions/contact_sheet/data/ui/contact-sheet.ui:497
 msgid "Create a new theme"
@@ -2716,7 +2712,7 @@ msgstr ""
 #: extensions/gstreamer_tools/gth-media-viewer-page.c:622
 #: extensions/image_viewer/gth-image-viewer-page.c:1182
 msgid "Play"
-msgstr "Speelen"
+msgstr ""
 
 #: extensions/gstreamer_tools/data/ui/mediabar.ui:50
 msgid "Slower"
@@ -2910,12 +2906,12 @@ msgstr ""
 #: extensions/image_print/data/ui/print-layout.ui:856
 #: extensions/gstreamer_tools/main.c:54
 msgid "Width"
-msgstr "Brede"
+msgstr ""
 
 #: extensions/image_print/data/ui/print-layout.ui:872
 #: extensions/gstreamer_tools/main.c:55
 msgid "Height"
-msgstr "Höhe"
+msgstr ""
 
 #: extensions/image_print/data/ui/print-layout.ui:943
 msgid "Rotation:"
@@ -3210,7 +3206,7 @@ msgstr ""
 #: extensions/webalbums/data/ui/web-album-exporter.ui:227
 #: extensions/gstreamer_tools/main.c:48
 msgid "Album"
-msgstr "Album"
+msgstr ""
 
 #: extensions/webalbums/data/ui/web-album-exporter.ui:302
 msgid "_Copy originals to destination"
@@ -3277,20 +3273,20 @@ msgstr ""
 #: extensions/cairo_io/gth-image-saver-jpeg.c:517
 #: extensions/image_viewer/gth-metadata-provider-image.c:154
 msgid "JPEG"
-msgstr "JPEG"
+msgstr ""
 
 #: extensions/cairo_io/gth-image-saver-png.c:354
 #: extensions/image_viewer/gth-metadata-provider-image.c:120
 msgid "PNG"
-msgstr "PNG"
+msgstr ""
 
 #: extensions/cairo_io/gth-image-saver-tga.c:345
 msgid "TGA"
-msgstr "TGA"
+msgstr ""
 
 #: extensions/cairo_io/gth-image-saver-tiff.c:564
 msgid "TIFF"
-msgstr "TIFF"
+msgstr ""
 
 #: extensions/cairo_io/gth-image-saver-webp.c:383
 #: extensions/image_viewer/gth-metadata-provider-image.c:183
@@ -3319,7 +3315,7 @@ msgstr ""
 #: extensions/catalogs/dlg-add-to-catalog.c:623
 #: extensions/file_manager/actions.c:140
 msgid "C_reate"
-msgstr "_Erstellen"
+msgstr ""
 
 #: extensions/catalogs/actions.c:291
 msgid "New library"
@@ -3361,11 +3357,11 @@ msgstr ""
 
 #: extensions/catalogs/callbacks.c:223 extensions/catalogs/callbacks.c:226
 msgid "Command Line"
-msgstr "Orderreeg"
+msgstr ""
 
 #: extensions/catalogs/callbacks.c:379
 msgid "Catalog Properties"
-msgstr "Katalogeegenschapten"
+msgstr ""
 
 #: extensions/catalogs/callbacks.c:395
 msgid "Organize"
@@ -3416,7 +3412,7 @@ msgstr ""
 
 #: extensions/catalogs/dlg-organize-files.c:152 extensions/comments/main.c:186
 msgid "Tag"
-msgstr "Slötelwoort"
+msgstr ""
 
 #: extensions/catalogs/gth-file-source-catalogs.c:958
 #, c-format
@@ -3498,7 +3494,7 @@ msgstr ""
 #: extensions/webalbums/dlg-web-exporter.c:38
 #: extensions/webalbums/dlg-web-exporter.c:47
 msgid "Current date"
-msgstr "Aktueller Dag"
+msgstr ""
 
 #: extensions/contact_sheet/dlg-contact-sheet.c:40
 #: extensions/image_print/gth-image-print-job.c:37
@@ -3536,7 +3532,7 @@ msgstr ""
 
 #: extensions/contact_sheet/gth-contact-sheet-theme.c:32
 msgid "Header"
-msgstr "Kopprebeet"
+msgstr ""
 
 #: extensions/contact_sheet/gth-contact-sheet-theme.c:33
 msgid "Footer"
@@ -3618,7 +3614,7 @@ msgstr ""
 
 #: extensions/edit_metadata/gth-edit-general-page.c:554
 msgid "No date"
-msgstr "Keen Dag"
+msgstr ""
 
 #: extensions/edit_metadata/gth-edit-general-page.c:555
 msgid "The following date"
@@ -3626,7 +3622,7 @@ msgstr ""
 
 #: extensions/edit_metadata/gth-edit-general-page.c:558
 msgid "Last modified date"
-msgstr "Tolest ännert"
+msgstr ""
 
 #: extensions/edit_metadata/gth-edit-general-page.c:559
 msgid "File creation date"
@@ -3634,7 +3630,7 @@ msgstr ""
 
 #: extensions/edit_metadata/gth-edit-general-page.c:560
 msgid "Do not modify"
-msgstr "Nich ännern"
+msgstr ""
 
 #: extensions/edit_metadata/gth-tag-task.c:122
 #: extensions/edit_metadata/gth-tag-task.c:139
@@ -3651,7 +3647,7 @@ msgstr ""
 
 #: extensions/exiv2_tools/main.c:33
 msgid "Exif General"
-msgstr "Exif allgemeen"
+msgstr ""
 
 #: extensions/exiv2_tools/main.c:34
 msgid "Exif Conditions"
@@ -3679,7 +3675,7 @@ msgstr ""
 
 #: extensions/exiv2_tools/main.c:40
 msgid "Exif Other"
-msgstr "Exif annere"
+msgstr ""
 
 #: extensions/exiv2_tools/main.c:41
 msgid "IPTC"
@@ -3798,7 +3794,7 @@ msgstr ""
 #: extensions/file_manager/callbacks.c:742
 #: extensions/file_manager/callbacks.c:745
 msgid "Open _With"
-msgstr "Opmaken _mit"
+msgstr ""
 
 #: extensions/file_manager/callbacks.c:1011
 #, c-format
@@ -3836,7 +3832,7 @@ msgstr ""
 #: extensions/file_tools/callbacks.c:55
 #: extensions/file_tools/gth-file-tool-mirror.c:90
 msgid "Mirror"
-msgstr "Speegel"
+msgstr ""
 
 #: extensions/file_tools/callbacks.c:56
 #: extensions/image_rotation/callbacks.c:47
@@ -3856,7 +3852,7 @@ msgstr ""
 #: extensions/file_tools/callbacks.c:59
 #: extensions/file_tools/gth-file-tool-resize.c:840
 msgid "Resize"
-msgstr "Gröte ännern"
+msgstr ""
 
 #: extensions/file_tools/gth-curve-editor.c:417
 #, c-format
@@ -4071,11 +4067,11 @@ msgstr ""
 
 #: extensions/file_tools/gth-file-tool-negative.c:101
 msgid "Negative"
-msgstr "Negativ"
+msgstr ""
 
 #: extensions/file_tools/gth-file-tool-redo.c:77
 msgid "Redo"
-msgstr "Wedderholen"
+msgstr ""
 
 #: extensions/file_tools/gth-file-tool-rotate.c:682
 msgid "Rotate"
@@ -4085,7 +4081,7 @@ msgstr ""
 #: extensions/image_rotation/callbacks.c:53
 #: extensions/image_rotation/callbacks.c:163
 msgid "Rotate Left"
-msgstr "Nah links dreihn"
+msgstr ""
 
 #: extensions/file_tools/gth-file-tool-rotate-left.c:91
 msgid "Rotate the image by 90 degrees counterclockwise"
@@ -4095,7 +4091,7 @@ msgstr ""
 #: extensions/image_rotation/callbacks.c:54
 #: extensions/image_rotation/callbacks.c:171
 msgid "Rotate Right"
-msgstr "Nah rechts dreihn"
+msgstr ""
 
 #: extensions/file_tools/gth-file-tool-rotate-right.c:91
 msgid "Rotate the image by 90 degrees clockwise"
@@ -4111,7 +4107,7 @@ msgstr ""
 
 #: extensions/file_tools/gth-file-tool-undo.c:77
 msgid "Undo"
-msgstr "Torüggnehmen"
+msgstr ""
 
 #: extensions/find_duplicates/callbacks.c:37
 msgid "Find _Duplicates…"
@@ -4208,12 +4204,12 @@ msgstr ""
 #: extensions/flicker_utils/dlg-import-from-flickr.c:374
 #: extensions/flicker_utils/dlg-import-from-flickr.c:553
 msgid "No album selected"
-msgstr "Keen Album utwählt"
+msgstr ""
 
 #: extensions/flicker_utils/dlg-import-from-flickr.c:513
 #: extensions/photo_importer/dlg-photo-importer.c:575
 msgid "_Import"
-msgstr "_Import"
+msgstr ""
 
 #: extensions/flicker_utils/dlg-import-from-flickr.c:571
 #, c-format
@@ -4300,7 +4296,7 @@ msgstr ""
 
 #: extensions/gstreamer_tools/callbacks.c:32
 msgid "Screenshot"
-msgstr "Billschirmbill"
+msgstr ""
 
 #: extensions/gstreamer_tools/callbacks.c:33
 msgid "Play/Pause"
@@ -4329,7 +4325,7 @@ msgstr ""
 
 #: extensions/gstreamer_tools/gth-media-viewer-page.c:608
 msgid "Pause"
-msgstr "Middag"
+msgstr ""
 
 #: extensions/gstreamer_tools/gth-media-viewer-page.c:1127
 msgid "Take a screenshot"
@@ -4341,7 +4337,7 @@ msgstr ""
 
 #: extensions/gstreamer_tools/main.c:47
 msgid "Artist"
-msgstr "Musiker"
+msgstr ""
 
 #: extensions/gstreamer_tools/main.c:49
 msgid "Bitrate"
@@ -4353,7 +4349,7 @@ msgstr ""
 
 #: extensions/gstreamer_tools/main.c:52 extensions/gstreamer_tools/main.c:57
 msgid "Codec"
-msgstr "Codec"
+msgstr ""
 
 #: extensions/gstreamer_tools/main.c:53
 msgid "Framerate"
@@ -4369,7 +4365,7 @@ msgstr ""
 
 #: extensions/gstreamer_utils/gstreamer-utils.c:369
 msgid "Stereo"
-msgstr "Stereo"
+msgstr ""
 
 #: extensions/gstreamer_utils/gstreamer-utils.c:369
 msgid "Mono"
@@ -4397,7 +4393,7 @@ msgstr ""
 #: extensions/image_print/gth-image-print-job.c:922
 #, c-format
 msgid "Page %d of %d"
-msgstr "Siet %d vun %d"
+msgstr ""
 
 #: extensions/image_print/gth-image-print-job.c:1754
 #: extensions/image_print/gth-image-print-job.c:1919
@@ -4407,7 +4403,7 @@ msgstr ""
 
 #: extensions/image_print/gth-image-print-job.c:1820
 msgid "Images"
-msgstr "Billers"
+msgstr ""
 
 #: extensions/image_print/gth-load-image-info-task.c:168
 #, c-format
@@ -4417,7 +4413,7 @@ msgstr ""
 #: extensions/image_print/gth-load-image-info-task.c:170
 #: extensions/webalbums/gth-web-exporter.c:2707
 msgid "Loading images"
-msgstr "Lade Billers"
+msgstr ""
 
 #: extensions/image_rotation/callbacks.c:59
 msgid "Rotate Physically"
@@ -4463,11 +4459,11 @@ msgstr ""
 
 #: extensions/image_viewer/callbacks.c:32
 msgid "Zoom in"
-msgstr "Gröter maken"
+msgstr ""
 
 #: extensions/image_viewer/callbacks.c:33
 msgid "Zoom out"
-msgstr "Lütter maken"
+msgstr ""
 
 #: extensions/image_viewer/callbacks.c:34
 msgid "Zoom 100%"
@@ -4571,7 +4567,7 @@ msgstr ""
 
 #: extensions/image_viewer/gth-image-viewer-page.c:1804
 msgid "Save Image"
-msgstr "Bill spiekern"
+msgstr ""
 
 #: extensions/image_viewer/gth-image-viewer-page.c:2528
 msgid "Loading the original image"
@@ -4587,7 +4583,7 @@ msgstr ""
 
 #: extensions/image_viewer/main.c:35
 msgid "Image Viewer"
-msgstr "Billopwieser"
+msgstr ""
 
 #: extensions/image_viewer/main.c:36
 msgid "Scroll Image"
@@ -4603,7 +4599,7 @@ msgstr ""
 
 #: extensions/importer/gth-import-preferences-dialog.c:45
 msgid "File date"
-msgstr "Dateidag"
+msgstr ""
 
 #: extensions/importer/gth-import-task.c:425
 #: extensions/importer/gth-import-task.c:460
@@ -4625,7 +4621,7 @@ msgstr ""
 
 #: extensions/importer/gth-import-task.c:730
 msgid "Last imported"
-msgstr "Tolest importert"
+msgstr ""
 
 #: extensions/importer/gth-import-task.c:825
 msgid "No file specified."
@@ -4641,11 +4637,11 @@ msgstr ""
 #: extensions/list_tools/callbacks.c:148 extensions/list_tools/callbacks.c:157
 #: extensions/list_tools/main.c:31
 msgid "Tools"
-msgstr "Warktüüg"
+msgstr ""
 
 #: extensions/list_tools/dlg-personalize-scripts.c:250
 msgid "Script"
-msgstr "Skript"
+msgstr ""
 
 #: extensions/list_tools/dlg-personalize-scripts.c:368
 msgid "Could not save the script"
@@ -4653,12 +4649,12 @@ msgstr ""
 
 #: extensions/list_tools/dlg-personalize-scripts.c:449
 msgid "New Command"
-msgstr "Neje Order"
+msgstr ""
 
 #: extensions/list_tools/dlg-personalize-scripts.c:476
 #: extensions/list_tools/gth-script-editor-dialog.c:128
 msgid "Edit Command"
-msgstr "Order bewarken"
+msgstr ""
 
 #: extensions/list_tools/dlg-personalize-scripts.c:506
 msgid "Are you sure you want to delete the selected command?"
@@ -4666,7 +4662,7 @@ msgstr ""
 
 #: extensions/list_tools/dlg-personalize-scripts.c:606
 msgid "Commands"
-msgstr "Order"
+msgstr ""
 
 #: extensions/list_tools/gth-script.c:522
 msgid "Enter a value:"
@@ -4674,7 +4670,7 @@ msgstr ""
 
 #: extensions/list_tools/gth-script.c:984
 msgid "_Skip"
-msgstr "_Överhüppen"
+msgstr ""
 
 #: extensions/list_tools/gth-script-editor-dialog.c:34
 msgid "Quoted text"
@@ -4736,11 +4732,11 @@ msgstr ""
 
 #: extensions/oauth/web-service.c:657
 msgid "Choose Account"
-msgstr "Togang wählen"
+msgstr ""
 
 #: extensions/oauth/web-service.c:774
 msgid "Edit Accounts"
-msgstr "Togang bewarken"
+msgstr ""
 
 #: extensions/oauth/web-service.c:792 extensions/oauth/web-service.c:809
 msgid "Connecting to the server"
@@ -4757,7 +4753,7 @@ msgstr ""
 #: extensions/photo_importer/actions.c:71
 #: extensions/photo_importer/dlg-photo-importer.c:619
 msgid "Choose a folder"
-msgstr "Verteeknis wählen"
+msgstr ""
 
 #: extensions/photo_importer/actions.c:75
 msgid "Import"
@@ -4786,7 +4782,7 @@ msgstr ""
 
 #: extensions/photo_importer/dlg-photo-importer.c:322
 msgid "Could not load the folder"
-msgstr "Künn dat Verteeknis nich laden"
+msgstr ""
 
 #: extensions/photo_importer/dlg-photo-importer.c:352
 msgid "Getting the folder content…"
@@ -4840,11 +4836,11 @@ msgstr ""
 
 #: extensions/rename_series/dlg-rename-series.c:798
 msgid "Old Name"
-msgstr "Oller Naam"
+msgstr ""
 
 #: extensions/rename_series/dlg-rename-series.c:809
 msgid "New Name"
-msgstr "Nejer Naam"
+msgstr ""
 
 #: extensions/rename_series/dlg-rename-series.c:887
 msgid "Keep original case"
@@ -4868,7 +4864,7 @@ msgstr ""
 
 #: extensions/resize_images/dlg-resize-images.c:341
 msgid "Resize Images"
-msgstr "Billgröten ännern"
+msgstr ""
 
 #: extensions/resize_images/dlg-resize-images.c:427
 msgid "Keep the original format"
@@ -4881,19 +4877,19 @@ msgstr ""
 
 #: extensions/search/actions.c:55
 msgid "Search Result"
-msgstr "Sökrutkamen"
+msgstr ""
 
 #: extensions/search/actions.c:78
 msgid "Find"
-msgstr "Finnen"
+msgstr ""
 
 #: extensions/search/callbacks.c:44 extensions/search/callbacks.c:79
 msgid "Find files"
-msgstr "Dateien finnen"
+msgstr ""
 
 #: extensions/search/callbacks.c:113
 msgid "Search again"
-msgstr "Nohmal söken"
+msgstr ""
 
 #: extensions/search/gth-search-source-selector.c:130
 msgid "Add another location"
@@ -4987,7 +4983,7 @@ msgstr ""
 
 #: extensions/slideshow/gth-slideshow-preferences.c:260
 msgid "Random"
-msgstr "Dööreenanner"
+msgstr ""
 
 #: extensions/slideshow/main.c:303
 msgid "Push from right"
